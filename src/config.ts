@@ -11,7 +11,7 @@ export const NFTContract = 'erd1qqqqqqqqqqqqqpgq5uldx5e2tdda4fwys0xtkraten2slsz3
 export const NFTName = 'Elrond Apes #7080';
 export const NFTRank = '3609';              //Rank :
 export const NFTScore ='66';                // Score:
-export const price = 0.5;    // IN EGLD
+export const price = 0.01;    // IN EGLD
 export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/QmRP9FVznm1xxa3FEsDENXhafRDaRWY6LKQdg8GygHNHKw/1748.png';             // the link for the image (media.elrond.etc)
 
 // ATTRIBUTES
