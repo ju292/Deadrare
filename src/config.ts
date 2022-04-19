@@ -16,8 +16,8 @@ export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/QmRP9FVznm1xxa3
 
 // ATTRIBUTES
 
-export const TypeAttribute1 = 'Red';
-export const ValueAttribute1 = 'Background';
+export const TypeAttribute1 = 'Background';
+export const ValueAttribute1 = 'Red';
 export const PercentageAttribute1 = '9,1%'
 
 export const TypeAttribute2 = 'Type';
