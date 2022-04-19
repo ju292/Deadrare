@@ -63,11 +63,11 @@ export const ListingFee = 'Free !';
 
 
 export const network: Dapp.NetworkType = {                // DONT FORGET TO CHANGE HERE IF YOU WANT TO USE ON MAINNET
-  id: "devnet",
-  name: "Devnet",
-  egldLabel: "xEGLD",
-  walletAddress: "https://devnet-wallet.elrond.com",
-  apiAddress: "https://devnet-api.elrond.com",
-  gatewayAddress: "https://devnet-gateway.elrond.com",
-  explorerAddress: "http://devnet-explorer.elrond.com/",
+  id: "mainnet",
+  name: "Mainnet",
+  egldLabel: "EGLD",
+  walletAddress: "https://wallet.elrond.com/",
+  apiAddress: "https://api.elrond.com/",
+  gatewayAddress: "https://gateway.elrond.com",
+  explorerAddress: "http://explorer.elrond.com/",
 };
