@@ -12,33 +12,33 @@ export const NFTName = 'Elrond Apes #7080';
 export const NFTRank = '3609';              //Rank :
 export const NFTScore ='66';                // Score:
 export const price = 0.01;    // IN EGLD
-export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/QmRP9FVznm1xxa3FEsDENXhafRDaRWY6LKQdg8GygHNHKw/1748.png';             // the link for the image (media.elrond.etc)
+export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/QmRP9FVznm1xxa3FEsDENXhafRDaRWY6LKQdg8GygHNHKw/2582.png';             // the link for the image (media.elrond.etc)
 
 // ATTRIBUTES
 
-export const TypeAttribute1 = 'y';
-export const ValueAttribute1 = 'Tribal';
-export const PercentageAttribute1 = '16%'
+export const TypeAttribute1 = 'Red';
+export const ValueAttribute1 = 'Background';
+export const PercentageAttribute1 = '9,1%'
 
-export const TypeAttribute2 = 'Background';
-export const ValueAttribute2 = 'Tribal';
-export const PercentageAttribute2 = '16%'
+export const TypeAttribute2 = 'Type';
+export const ValueAttribute2 = 'Basic Blue';
+export const PercentageAttribute2 = '25%'
 
-export const TypeAttribute3 = 'Background';
-export const ValueAttribute3 = 'Triballe';
-export const PercentageAttribute3 = '18%'
+export const TypeAttribute3 = 'Eyes';
+export const ValueAttribute3 = 'No Glasses';
+export const PercentageAttribute3 = '46%'
 
-export const TypeAttribute4 = 'Background';
-export const ValueAttribute4 = 'Tribal';
-export const PercentageAttribute4 = '16%'
+export const TypeAttribute4 = 'Mouth';
+export const ValueAttribute4 = 'Party Blower';
+export const PercentageAttribute4 = '4,1%'
 
-export const TypeAttribute5 = 'Background';
-export const ValueAttribute5 = 'Tribal';
-export const PercentageAttribute5 = '16%'
+export const TypeAttribute5 = 'Earring';
+export const ValueAttribute5 = 'Punk';
+export const PercentageAttribute5 = '27%'
 
-export const TypeAttribute6 = 'Background';
-export const ValueAttribute6 = 'Tribal';
-export const PercentageAttribute6 = '16%'
+export const TypeAttribute6 = 'Hat';
+export const ValueAttribute6 = 'Alien Headband';
+export const PercentageAttribute6 = '4,7%'
 
 
 // DETAILS 
