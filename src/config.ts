@@ -43,7 +43,7 @@ export const PercentageAttribute6 = '4,7%'
 
 // DETAILS 
 
-export const OwnerAddress = 'erd1qqqqqqqqqqqqqpgq7gma4udjeh3mwuq4lmk7wccgh0tenxu6yv5qc2csfy';
+export const OwnerAddress = 'erd13ecggjukhxr6a22uzudtxpkdlg9583859pwwrm02uzhm6w6prr4qpv3k3e';
 export const CollectionIdentifier = 'EAPES-8f3c1f';
 export const TokenIdentifier = 'EAPES-8f3c1f-1538';
 export const CreatorAddress = 'erd1qqqqqqqqqqqqqpgq7gma4udjeh3mwuq4lmk7wccgh0tenxu6yv5qc2csfy';
