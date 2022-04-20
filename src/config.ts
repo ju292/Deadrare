@@ -7,7 +7,7 @@ export const walletConnectDeepLink = 'https://maiar.page.link/?apn=com.elrond.ma
 
 
 
-export const NFTContract = 'erd1qqqqqqqqqqqqqpgq5uldx5e2tdda4fwys0xtkraten2slsz30eqqgetdfd';
+export const NFTContract = 'erd1qqqqqqqqqqqqqpgq32payvmle5ewfaqv9kgyct7medxlwazpvnnsl7afwf';
 export const NFTName = 'Elrond Apes #2582';
 export const NFTRank = '9818';              //Rank :
 export const NFTScore ='67';                // Score:
