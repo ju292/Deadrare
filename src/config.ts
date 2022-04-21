@@ -9,7 +9,7 @@ export const walletConnectDeepLink = 'https://maiar.page.link/?apn=com.elrond.ma
 
 export const NFTContract = 'erd1qqqqqqqqqqqqqpgq32payvmle5ewfaqv9kgyct7medxlwazpvnnsl7afwf';
 export const NFTName = 'Elrond Apes #2582';
-export const NFTRank = '9818';              //Rank :
+export const NFTRank = '9817';              //Rank :
 export const NFTScore ='67';                // Score:
 export const price = 2;    // IN EGLD
 export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/QmRP9FVznm1xxa3FEsDENXhafRDaRWY6LKQdg8GygHNHKw/2582.png';             // the link for the image (media.elrond.etc)
