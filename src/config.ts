@@ -50,7 +50,7 @@ export const PercentageAttribute8 = '70%'
 
 export const TypeAttribute9 = 'Earrings';
 export const ValueAttribute9 = 'Blank';
-export const PercentageAttribute9 = ''
+export const PercentageAttribute9 = 'O,8%'
 
 
 // DETAILS 
