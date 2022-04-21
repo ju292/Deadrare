@@ -8,10 +8,10 @@ export const walletConnectDeepLink = 'https://maiar.page.link/?apn=com.elrond.ma
 
 
 export const NFTContract = 'erd1qqqqqqqqqqqqqpgq32payvmle5ewfaqv9kgyct7medxlwazpvnnsl7afwf';
-export const NFTName = 'Elrond Apes #2582';
-export const NFTRank = '9817';              //Rank :
-export const NFTScore ='67';                // Score:
-export const price = 2;    // IN EGLD
+export const NFTName = 'Salvadorian Ape #1145';
+export const NFTRank = '20';              //Rank :
+export const NFTScore ='415';                // Score:
+export const price = 1,1;    // IN EGLD
 export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/QmRkHxLNnrUYpErMxQvhZwQ3XHvF6LNPhw9AXeZDMtLrTC/501.png';             // the link for the image (media.elrond.etc)
 
 // ATTRIBUTES
