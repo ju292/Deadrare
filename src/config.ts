@@ -12,7 +12,7 @@ export const NFTName = 'Salvadorian Ape #1145';
 export const NFTRank = '20';              //Rank :
 export const NFTScore ='415';                // Score:
 export const price = 1.1;    // IN EGLD
-export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/QmRkHxLNnrUYpErMxQvhZwQ3XHvF6LNPhw9AXeZDMtLrTC/501.png';             // the link for the image (media.elrond.etc)
+export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/QmdCEkyaafqZgmeydXfyWmB71qhHf1WSyGmRtv1SzDFq31/2301.png';             // the link for the image (media.elrond.etc)
 
 // ATTRIBUTES
 
