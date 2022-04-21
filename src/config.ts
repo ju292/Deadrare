@@ -10,7 +10,7 @@ export const walletConnectDeepLink = 'https://maiar.page.link/?apn=com.elrond.ma
 export const NFTContract = 'erd1qqqqqqqqqqqqqpgq32payvmle5ewfaqv9kgyct7medxlwazpvnnsl7afwf';
 export const NFTName = 'GNOGONS #2301';
 export const NFTRank = '8520';              //Rank :
-export const  =' ';                 // Score:
+export const  ='';                 // Score:
 export const price = 1.1;    // IN EGLD
 export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/QmdCEkyaafqZgmeydXfyWmB71qhHf1WSyGmRtv1SzDFq31/2301.png';             // the link for the image (media.elrond.etc)
 
