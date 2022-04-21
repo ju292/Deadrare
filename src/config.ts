@@ -17,36 +17,48 @@ export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/QmRP9FVznm1xxa3
 // ATTRIBUTES
 
 export const TypeAttribute1 = 'Background';
-export const ValueAttribute1 = 'Red';
-export const PercentageAttribute1 = '9,1%'
+export const ValueAttribute1 = 'pink gradient';
+export const PercentageAttribute1 = '3,5%'
 
-export const TypeAttribute2 = 'Type';
-export const ValueAttribute2 = 'Basic Blue';
-export const PercentageAttribute2 = '25%'
+export const TypeAttribute2 = 'Ape';
+export const ValueAttribute2 = 'brown';
+export const PercentageAttribute2 = '15%'
 
-export const TypeAttribute3 = 'Eyes';
-export const ValueAttribute3 = 'No Glasses';
-export const PercentageAttribute3 = '46%'
+export const TypeAttribute3 = 'Skin';
+export const ValueAttribute3 = 'Blank';
+export const PercentageAttribute3 = '75%'
 
-export const TypeAttribute4 = 'Mouth';
-export const ValueAttribute4 = 'Party Blower';
-export const PercentageAttribute4 = '4,1%'
+export const TypeAttribute4 = 'Eyes';
+export const ValueAttribute4 = 'sharingan rinnegan eyes';
+export const PercentageAttribute4 = '2,4%'
 
-export const TypeAttribute5 = 'Earring';
-export const ValueAttribute5 = 'Punk';
-export const PercentageAttribute5 = '27%'
+export const TypeAttribute5 = 'Hat';
+export const ValueAttribute5 = 'Blank';
+export const PercentageAttribute5 = '30%'
 
-export const TypeAttribute6 = 'Hat';
-export const ValueAttribute6 = 'Alien Headband';
+export const TypeAttribute6 = 'Top';
+export const ValueAttribute6 = 'hoodie Multicolor';
 export const PercentageAttribute6 = '4,7%'
+
+export const TypeAttribute7 = 'Mouth';
+export const ValueAttribute7 = 'smile 1';
+export const PercentageAttribute7 = '5,4%'
+
+export const TypeAttribute8 = 'Accessories';
+export const ValueAttribute8 = 'Blank';
+export const PercentageAttribute8 = '70%'
+
+export const TypeAttribute9 = 'Earrings';
+export const ValueAttribute9 = 'Blank';
+export const PercentageAttribute9 = ''
 
 
 // DETAILS 
 
-export const OwnerAddress = 'erd13ecggjukhxr6a22uzudtxpkdlg9583859pwwrm02uzhm6w6prr4qpv3k3e';
-export const CollectionIdentifier = 'EAPES-8f3c1f';
-export const TokenIdentifier = 'EAPES-8f3c1f-1538';
-export const CreatorAddress = 'erd1qqqqqqqqqqqqqpgq7gma4udjeh3mwuq4lmk7wccgh0tenxu6yv5qc2csfy';
+export const OwnerAddress = 'erd1pll5...wqff7wx5';
+export const CollectionIdentifier = 'SAC-c60db0';
+export const TokenIdentifier = 'SAC-c60db0-0479';
+export const CreatorAddress = 'erd1qqqq...5smq4yfh';
 export const ArtistRoyalties = '10%';
 export const SaleFee = '3%';
 export const ListingFee = 'Free !';
