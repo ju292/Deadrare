@@ -17,7 +17,7 @@ export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/QmdCEkyaafqZgme
 // ATTRIBUTES
 
 export const TypeAttribute1 = 'Tribe X';
-export const ValueAttribute1 = 'The Shinobi';
+export const ValueAttribute1 = '6';
 export const PercentageAttribute1 = '0,01%'
 
 
