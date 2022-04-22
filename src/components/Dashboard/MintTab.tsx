@@ -171,9 +171,11 @@ const MintTab = () => {
                 <p>{config.TypeAttribute1}</p>
                 <strong>{config.ValueAttribute1}</strong>
                 <p>{config.PercentageAttribute1}</p>
-             
-
+               
+      </div>
   </div>
+    
+    
   <div id="details">
       <div id="detailsTXT">
         <h1>Details</h1>
