@@ -18,7 +18,6 @@ export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/QmdCEkyaafqZgme
 
 export const TypeAttribute1 = 'Tribe X';
 export const ValueAttribute1 = '6';
-export const PercentageAttribute1 = '0,01%'
 
 
 
