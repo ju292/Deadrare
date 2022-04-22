@@ -20,9 +20,6 @@ export const TypeAttribute1 = 'Tribe X';
 export const ValueAttribute1 = '6';
 export const PercentageAttribute1 = '0,01%';
 
-export const TypeAttribute2 = 'Tribe X';
-export const ValueAttribute2 = '6';
-export const PercentageAttribute2 = '0,01%';
 
 
 
