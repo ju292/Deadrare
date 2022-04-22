@@ -173,37 +173,7 @@ const MintTab = () => {
                 <p>{config.PercentageAttribute1}</p>
 
               </div>
-              <div className="attribute">
-              <p>{config.TypeAttribute2}</p>
-                <strong>{config.ValueAttribute2}</strong>
-                <p>{config.PercentageAttribute2}</p>
-
-              </div>            
-              <div className="attribute">
-              <p>{config.TypeAttribute3}</p>
-                <strong>{config.ValueAttribute3}</strong>
-                <p>{config.PercentageAttribute3}</p>
-
-              </div>            
-              <div className="attribute">
-              <p>{config.TypeAttribute4}</p>
-                <strong>{config.ValueAttribute4}</strong>
-                <p>{config.PercentageAttribute4}</p>
-
-              </div>
-              <div className="attribute">
-              <p>{config.TypeAttribute5}</p>
-                <strong>{config.ValueAttribute5}</strong>
-                <p>{config.PercentageAttribute5}</p>
-
-              </div>
-              <div className="attribute">
-              <p>{config.TypeAttribute6}</p>
-                <strong>{config.ValueAttribute6}</strong>
-                <p>{config.PercentageAttribute6}</p>
-
-              </div>
-            </div>
+             
 
   </div>
   <div id="details">
