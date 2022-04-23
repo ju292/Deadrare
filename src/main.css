@@ -519,12 +519,11 @@ h3 {
 #logo a {
   font-size: 30%;
   margin-left: 0.5%;
-	margin-top: -12%;
 }
 
 #logoNavbar {
   width: 30%;
-  maging-top: 12%;
+  maging-top: -12%;
 }
 
 #boutonsNavbar {
@@ -577,7 +576,7 @@ nav ul{
   margin-right: 8%;;
   z-index: 11;
   
-  margin-top: -12%
+  margin-top: -12%;
   
 }
 nav ul li{
