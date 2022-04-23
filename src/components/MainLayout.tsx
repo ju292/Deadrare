@@ -73,7 +73,7 @@ const MainLayout: React.FC = ({ children }) => {
         <li>{address ? (
               
               <Button
-                marginTop={0}
+                marginTop={50}
                 width="15%"
                 appearance="primary"
                 fontSize={14}
