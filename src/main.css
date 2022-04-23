@@ -565,7 +565,7 @@ nav{
   background: #1A1A1A;
   height: 80px;
   width: 100%;
-  
+  margin-top: -12%;
 }
 label.logo{
   color: white;
