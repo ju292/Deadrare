@@ -517,8 +517,9 @@ h3 {
 
 
 #logo a {
-  font-size: 200%;
+  font-size: 30%;
   margin-left: 0.5%;
+	margin-top: -12%;
 }
 
 #logoNavbar {
