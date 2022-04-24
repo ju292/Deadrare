@@ -645,7 +645,9 @@ a.active,a:hover{
     width: 8%;
   }
  
-  
+ #logo a 
+ { font-size:85%; 
+	 margin-top: 50%; }
   
 }
 @media (max-width: 858px){
