@@ -12,7 +12,7 @@ export const NFTName = 'Elrond Warrior #9130';
 export const NFTRank = '16';              //Rank :
 export const NFTScore ='9999';                // Score:
 export const price = 4.5;    // IN EGLD
-export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/QmeiMseZt7HdX4f8PLxrxRgbXVfWddcFp2AQVQN3T3vuCB/9994.jpg';             // the link for the image (media.elrond.etc)
+export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/QmaHLrEp8FtF2B3g2Fz5kvW79FxFsiggaWvFxcboW5cSFs/GR/Emidas%20Act%202%20GR%20Final%20NFT.mp4';             // the link for the image (media.elrond.etc)
 
 // ATTRIBUTES
 
