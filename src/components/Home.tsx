@@ -136,6 +136,46 @@ const Home: React.FC = () => {
                 <p>{config.TypeAttribute1}</p>
                 <strong>{config.ValueAttribute1}</strong>
                 <p>{config.PercentageAttribute1}</p>
+              
+                    <p>{config.TypeAttribute2}</p>
+                <strong>{config.ValueAttribute2}</strong>
+                <p>{config.PercentageAttribute2}</p>
+              
+                    <p>{config.TypeAttribute3}</p>
+                <strong>{config.ValueAttribute3}</strong>
+                <p>{config.PercentageAttribute3}</p>
+              
+                    <p>{config.TypeAttribute4}</p>
+                <strong>{config.ValueAttribute4}</strong>
+                <p>{config.PercentageAttribute4}</p>
+              
+                    <p>{config.TypeAttribute5}</p>
+                <strong>{config.ValueAttribute5}</strong>
+                <p>{config.PercentageAttribute5}</p>
+              
+                    <p>{config.TypeAttribute6}</p>
+                <strong>{config.ValueAttribute6}</strong>
+                <p>{config.PercentageAttribute6}</p>
+              
+                    <p>{config.TypeAttribute7}</p>
+                <strong>{config.ValueAttribute7}</strong>
+                <p>{config.PercentageAttribute7}</p>
+              
+                    <p>{config.TypeAttribute8}</p>
+                <strong>{config.ValueAttribute8}</strong>
+                <p>{config.PercentageAttribute8}</p>
+              
+                    <p>{config.TypeAttribute9}</p>
+                <strong>{config.ValueAttribute9}</strong>
+                <p>{config.PercentageAttribute9}</p>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
 
            
