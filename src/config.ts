@@ -28,29 +28,29 @@ export const TypeAttribute3 = 'Skin';
 export const ValueAttribute3 = 'Blank';
 export const PercentageAttribute3 = '75%';
 
-export const TypeAttribute3 = 'Eyes';
-export const ValueAttribute3 = 'tired eyes';
-export const PercentageAttribute3 = '13%';
+export const TypeAttribute4 = 'Eyes';
+export const ValueAttribute4 = 'tired eyes';
+export const PercentageAttribute4 = '13%';
 
-export const TypeAttribute4 = 'Hat';
-export const ValueAttribute4 = 'cowboy hat';
-export const PercentageAttribute4 = '4,1%';
+export const TypeAttribute5 = 'Hat';
+export const ValueAttribute5 = 'cowboy hat';
+export const PercentageAttribute5 = '4,1%';
 
-export const TypeAttribute5 = 'Top';
-export const ValueAttribute5 = 'tanktop black';
-export const PercentageAttribute5 = '4,0%';
+export const TypeAttribute6 = 'Top';
+export const ValueAttribute6 = 'tanktop black';
+export const PercentageAttribute6 = '4,0%';
 
-export const TypeAttribute6 = 'Mouth';
-export const ValueAttribute6 = 'smoking cigar with..';
-export const PercentageAttribute6 = '2,0%';
+export const TypeAttribute7 = 'Mouth';
+export const ValueAttribute7 = 'smoking cigar with..';
+export const PercentageAttribute7 = '2,0%';
 
-export const TypeAttribute7 = 'Accessories';
-export const ValueAttribute7 = 'Blank';
-export const PercentageAttribute7 = '69%';
+export const TypeAttribute8 = 'Accessories';
+export const ValueAttribute8 = 'Blank';
+export const PercentageAttribute8 = '69%';
 
-export const TypeAttribute7 = 'Earrings';
-export const ValueAttribute7 = 'Blank';
-export const PercentageAttribute7 = '';
+export const TypeAttribute9 = 'Earrings';
+export const ValueAttribute9 = 'Blank';
+export const PercentageAttribute9 = '';
 
 
 
