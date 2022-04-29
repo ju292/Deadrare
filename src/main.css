@@ -505,7 +505,7 @@ h3 {
 
 #logo {
   margin-left: 10%;
-  margin-top: -10% !important;
+  margin-top: -5% !important;
   
 }
 
@@ -517,7 +517,7 @@ h3 {
 
 
 #logo a {
-  font-size: 0%;
+  font-size: 110%;
   /* margin-top: -50%; */
 
 }
@@ -573,7 +573,7 @@ nav ul{
   margin-right: 8%;;
   z-index: 11;
   
-  margin-top: -12%;
+  margin-top: -5%;
   
 }
 nav ul li{
