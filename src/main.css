@@ -505,7 +505,7 @@ h3 {
 
 #logo {
   margin-left: 10%;
-  
+  margin-top: -20% !important;
   
 }
 
@@ -518,13 +518,13 @@ h3 {
 
 #logo a {
   font-size: 0%;
-  margin-top: -50%;
+  /* margin-top: -50%; */
 
 }
 
 #logoNavbar {
   width: 30%;
-  margin-top: -50%;
+  /* margin-top: -50%; */
 }
 
 #boutonsNavbar {
@@ -545,7 +545,7 @@ h3 {
 .btnNAV {
   
   margin-left: 4%;
-	margin-top: -12% !important;
+
   font-size: 110%;
   color: white;
   transition-duration: 1s !important;
