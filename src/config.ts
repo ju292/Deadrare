@@ -57,10 +57,10 @@ export const PercentageAttribute8 = '1,7%';
 
 // DETAILS 
 
-export const OwnerAddress = 'erd1qawd...dqwk6862';
-export const CollectionIdentifier = 'SAC-c60db0';
-export const TokenIdentifier = 'WSAC-c60db0-0398';
-export const CreatorAddress = 'erd1qqqq...5smq4yfh';
+export const OwnerAddress = 'erd1k3pr...hql9exl3';
+export const CollectionIdentifier = 'EAPES-8f3c1f';
+export const TokenIdentifier = 'EAPES-8f3c1f-0e25';
+export const CreatorAddress = 'erd1qqqq...5qc2csfy';
 export const ArtistRoyalties = '10%';
 export const SaleFee = '3%';
 export const ListingFee = 'Free !';
