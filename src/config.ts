@@ -8,49 +8,45 @@ export const walletConnectDeepLink = 'https://maiar.page.link/?apn=com.elrond.ma
 
 
 export const NFTContract = 'erd1qqqqqqqqqqqqqpgq32payvmle5ewfaqv9kgyct7medxlwazpvnnsl7afwf';
-export const NFTName = 'Salvadorian Ape #920';
-export const NFTRank = '13';              //Rank :
-export const NFTScore ='545';                // Score:
+export const NFTName = 'ElrondApes #3620';
+export const NFTRank = '358';              //Rank :
+export const NFTScore ='165';                // Score:
 export const price = 3.5;    // IN EGLD
-export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/QmRkHxLNnrUYpErMxQvhZwQ3XHvF6LNPhw9AXeZDMtLrTC/532.png';             // the link for the image (media.elrond.etc)
+export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/QmRP9FVznm1xxa3FEsDENXhafRDaRWY6LKQdg8GygHNHKw/3620.png';             // the link for the image (media.elrond.etc)
 
 // ATTRIBUTES
 
 export const TypeAttribute1 = 'Background';
-export const ValueAttribute1 = 'Purple';
-export const PercentageAttribute1 = '9,2%';
+export const ValueAttribute1 = 'Dark';
+export const PercentageAttribute1 = '16%';
 
-export const TypeAttribute2 = 'Ape';
-export const ValueAttribute2 = 'White';
-export const PercentageAttribute2 = '0,24%';
+export const TypeAttribute2 = 'Type';
+export const ValueAttribute2 = 'Platinium';
+export const PercentageAttribute2 = '12%';
 
-export const TypeAttribute3 = 'Skin';
-export const ValueAttribute3 = 'Blank';
-export const PercentageAttribute3 = '75%';
+export const TypeAttribute3 = 'Eyes';
+export const ValueAttribute3 = 'No Glasses';
+export const PercentageAttribute3 = '46%';
 
-export const TypeAttribute4 = 'Eyes';
-export const ValueAttribute4 = 'tired eyes';
-export const PercentageAttribute4 = '13%';
+export const TypeAttribute4 = 'Mouth';
+export const ValueAttribute4 = 'Basic';
+export const PercentageAttribute4 = '44%';
 
-export const TypeAttribute5 = 'Hat';
-export const ValueAttribute5 = 'cowboy hat';
-export const PercentageAttribute5 = '4,1%';
+export const TypeAttribute5 = 'Clothes';
+export const ValueAttribute5 = 'Space Synthetic Jacket..';
+export const PercentageAttribute5 = '4,4%';
 
-export const TypeAttribute6 = 'Top';
-export const ValueAttribute6 = 'tanktop black';
-export const PercentageAttribute6 = '4,0%';
+export const TypeAttribute6 = 'Hat';
+export const ValueAttribute6 = 'Welding Helmet';
+export const PercentageAttribute6 = '1,6%';
 
-export const TypeAttribute7 = 'Mouth';
-export const ValueAttribute7 = 'smoking cigar with..';
-export const PercentageAttribute7 = '2,0%';
+export const TypeAttribute7 = 'Hat';
+export const ValueAttribute7 = 'Welding Helmet';
+export const PercentageAttribute7 = '1,6%';
 
-export const TypeAttribute8 = 'Accessories';
-export const ValueAttribute8 = 'Blank';
-export const PercentageAttribute8 = '69%';
-
-export const TypeAttribute9 = 'Earrings';
-export const ValueAttribute9 = 'Blank';
-export const PercentageAttribute9 = '';
+export const TypeAttribute8 = 'Special';
+export const ValueAttribute8 = 'Romania Flag';
+export const PercentageAttribute8 = '1,7%';
 
 
 
