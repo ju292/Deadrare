@@ -40,13 +40,9 @@ export const TypeAttribute6 = 'Hat';
 export const ValueAttribute6 = 'Welding Helmet';
 export const PercentageAttribute6 = '1,6%';
 
-export const TypeAttribute7 = 'Hat';
-export const ValueAttribute7 = 'Welding Helmet';
-export const PercentageAttribute7 = '1,6%';
-
-export const TypeAttribute8 = 'Special';
-export const ValueAttribute8 = 'Romania Flag';
-export const PercentageAttribute8 = '1,7%';
+export const TypeAttribute7 = 'Special';
+export const ValueAttribute7 = 'Romania Flag';
+export const PercentageAttribute7 = '1,7%';
 
 
 
