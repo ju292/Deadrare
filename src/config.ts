@@ -11,7 +11,7 @@ export const NFTContract = 'erd1qqqqqqqqqqqqqpgq32payvmle5ewfaqv9kgyct7medxlwazp
 export const NFTName = 'Salvadorian Ape #49';
 export const NFTRank = '420';              //Rank :
 export const NFTScore ='168';                // Score:
-export const price = 3.5;    // IN EGLD
+export const price = 2;    // IN EGLD
 export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/QmRkHxLNnrUYpErMxQvhZwQ3XHvF6LNPhw9AXeZDMtLrTC/696.png';             // the link for the image (media.elrond.etc)
 
 // ATTRIBUTES
