@@ -8,42 +8,49 @@ export const walletConnectDeepLink = 'https://maiar.page.link/?apn=com.elrond.ma
 
 
 export const NFTContract = 'erd1qqqqqqqqqqqqqpgq32payvmle5ewfaqv9kgyct7medxlwazpvnnsl7afwf';
-export const NFTName = 'ElrondApes #3620';
-export const NFTRank = '358';              //Rank :
-export const NFTScore ='165';                // Score:
+export const NFTName = 'Salvadorian Ape #49';
+export const NFTRank = '420';              //Rank :
+export const NFTScore ='168';                // Score:
 export const price = 3.5;    // IN EGLD
-export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/QmRP9FVznm1xxa3FEsDENXhafRDaRWY6LKQdg8GygHNHKw/3620.png';             // the link for the image (media.elrond.etc)
+export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/QmRkHxLNnrUYpErMxQvhZwQ3XHvF6LNPhw9AXeZDMtLrTC/696.png';             // the link for the image (media.elrond.etc)
 
 // ATTRIBUTES
 
 export const TypeAttribute1 = 'Background';
-export const ValueAttribute1 = 'Dark';
-export const PercentageAttribute1 = '16%';
+export const ValueAttribute1 = 'Purple';
+export const PercentageAttribute1 = '9.2%';
 
-export const TypeAttribute2 = 'Type';
-export const ValueAttribute2 = 'Platinium';
-export const PercentageAttribute2 = '12%';
+export const TypeAttribute2 = 'Ape';
+export const ValueAttribute2 = 'grad 2';
+export const PercentageAttribute2 = '1.3%';
 
-export const TypeAttribute3 = 'Eyes';
-export const ValueAttribute3 = 'No Glasses';
-export const PercentageAttribute3 = '46%';
+export const TypeAttribute3 = 'Skin';
+export const ValueAttribute3 = 'Blank';
+export const PercentageAttribute3 = '74%';
 
-export const TypeAttribute4 = 'Mouth';
-export const ValueAttribute4 = 'Basic';
-export const PercentageAttribute4 = '44%';
+export const TypeAttribute4 = 'Eyes';
+export const ValueAttribute4 = 'normal eyes';
+export const PercentageAttribute4 = '18%';
 
-export const TypeAttribute5 = 'Clothes';
-export const ValueAttribute5 = 'Space Synthetic Jacket..';
-export const PercentageAttribute5 = '4,4%';
+export const TypeAttribute5 = 'Hat';
+export const ValueAttribute5 = 'yellow durag';
+export const PercentageAttribute5 = '3.8%';
 
-export const TypeAttribute6 = 'Hat';
-export const ValueAttribute6 = 'Welding Helmet';
-export const PercentageAttribute6 = '1,6%';
+export const TypeAttribute6 = 'Top';
+export const ValueAttribute6 = 'tie black';
+export const PercentageAttribute6 = '2.8%';
 
-export const TypeAttribute7 = 'Special';
-export const ValueAttribute7 = 'Romania Flag';
-export const PercentageAttribute7 = '1,7%';
+export const TypeAttribute7 = 'Mouth';
+export const ValueAttribute7 = 'normal';
+export const PercentageAttribute7 = '12%';
 
+export const TypeAttribute8 = 'Accessories';
+export const ValueAttribute8 = 'blank';
+export const PercentageAttribute8 = '68%';
+
+export const TypeAttribute9 = 'earrings';
+export const ValueAttribute9 = 'blank';
+export const PercentageAttribute9 = '';
 
 
 
@@ -53,10 +60,10 @@ export const PercentageAttribute7 = '1,7%';
 
 // DETAILS 
 
-export const OwnerAddress = 'erd1k3pr...hql9exl3';
-export const CollectionIdentifier = 'EAPES-8f3c1f';
-export const TokenIdentifier = 'EAPES-8f3c1f-0e25';
-export const CreatorAddress = 'erd1qqqq...5qc2csfy';
+export const OwnerAddress = 'erd1ve7l...5s3nzpmc';
+export const CollectionIdentifier = 'SAC-c60db0';
+export const TokenIdentifier = 'SAC-c60db0-31';
+export const CreatorAddress = 'erd1qqqq...5smq4yfh';
 export const ArtistRoyalties = '10%';
 export const SaleFee = '3%';
 export const ListingFee = 'Free !';
