@@ -17,28 +17,28 @@ export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/QmRkHxLNnrUYpEr
 // ATTRIBUTES
 
 export const TypeAttribute1 = 'Background';
-export const ValueAttribute1 = 'Purple';
-export const PercentageAttribute1 = '9.2%';
+export const ValueAttribute1 = 'Yellow';
+export const PercentageAttribute1 = '2.6%';
 
 export const TypeAttribute2 = 'Ape';
-export const ValueAttribute2 = 'grad 2';
-export const PercentageAttribute2 = '1.3%';
+export const ValueAttribute2 = 'dark beige';
+export const PercentageAttribute2 = '8.0%';
 
 export const TypeAttribute3 = 'Skin';
 export const ValueAttribute3 = 'Blank';
 export const PercentageAttribute3 = '74%';
 
 export const TypeAttribute4 = 'Eyes';
-export const ValueAttribute4 = 'normal eyes';
-export const PercentageAttribute4 = '18%';
+export const ValueAttribute4 = 'rinnegan eyes';
+export const PercentageAttribute4 = '1.9%';
 
 export const TypeAttribute5 = 'Hat';
-export const ValueAttribute5 = 'yellow durag';
+export const ValueAttribute5 = 'blank';
 export const PercentageAttribute5 = '3.8%';
 
 export const TypeAttribute6 = 'Top';
-export const ValueAttribute6 = 'tie black';
-export const PercentageAttribute6 = '2.8%';
+export const ValueAttribute6 = 'tie dot yellow';
+export const PercentageAttribute6 = '0.45%';
 
 export const TypeAttribute7 = 'Mouth';
 export const ValueAttribute7 = 'normal';
