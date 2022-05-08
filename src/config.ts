@@ -33,8 +33,8 @@ export const ValueAttribute4 = 'Candle';
 export const PercentageAttribute4 = '0.02%';
 
 export const TypeAttribute5 = 'Face';
-export const ValueAttribute5 = 'Eyes';
-export const PercentageAttribute5 = '0.02%%';
+export const ValueAttribute5 = 'Candle';
+export const PercentageAttribute5 = '0.02%';
 
 export const TypeAttribute6 = 'Eyes';
 export const ValueAttribute6 = 'Candle';
