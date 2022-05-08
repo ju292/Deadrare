@@ -173,17 +173,7 @@ const Home: React.FC = () => {
                 <strong>{config.ValueAttribute7}</strong>
                 <p>{config.PercentageAttribute7}</p>
                 
-                             </div>
-              <div className="attribute">
-              <p>{config.TypeAttribute8}</p>
-                <strong>{config.ValueAttribute8}</strong>
-                <p>{config.PercentageAttribute8}</p>
-                
-                             </div>
-              <div className="attribute">
-              <p>{config.TypeAttribute9}</p>
-                <strong>{config.ValueAttribute9}</strong>
-                <p>{config.PercentageAttribute9}</p>
+         
                 
        
            
