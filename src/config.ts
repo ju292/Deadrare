@@ -12,7 +12,7 @@ export const NFTName = 'MKR1st #350';
 export const NFTRank = '2';              //Rank :
 export const NFTScore ='716';                // Score:
 export const price = 2;    // IN EGLD
-export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/QmaQPUqpiefbDHCHtdeW4MKLC2oorjmZwqcUGY2CJ1VyYr/4996.png';             // the link for the image (media.elrond.etc)
+export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/QmTzNi8m7XVBuhDkmZWyEi1pawJfkdmr5D8iZGsTQwvAcA/350.mp4';             // the link for the image (media.elrond.etc)
 
 // ATTRIBUTES
 
