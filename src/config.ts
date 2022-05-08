@@ -11,7 +11,7 @@ export const NFTContract = 'erd1qqqqqqqqqqqqqpgq32payvmle5ewfaqv9kgyct7medxlwazp
 export const NFTName = 'Nifty Rex #4996';
 export const NFTRank = '5';              //Rank :
 export const NFTScore ='';                // Score:
-export const price = 3.5;    // IN EGLD
+export const price = 2;    // IN EGLD
 export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/QmaQPUqpiefbDHCHtdeW4MKLC2oorjmZwqcUGY2CJ1VyYr/4996.png';             // the link for the image (media.elrond.etc)
 
 // ATTRIBUTES
