@@ -22,15 +22,15 @@ export const PercentageAttribute1 = '0.02%';
 
 export const TypeAttribute2 = 'Tail';
 export const ValueAttribute2 = 'Candle';
-export const PercentageAttribute2 = '0.02%%';
+export const PercentageAttribute2 = '0.02%';
 
 export const TypeAttribute3 = 'Shirt';
 export const ValueAttribute3 = 'Candle';
-export const PercentageAttribute3 = '0.02%%';
+export const PercentageAttribute3 = '0.02%';
 
 export const TypeAttribute4 = 'Hat';
 export const ValueAttribute4 = 'Candle';
-export const PercentageAttribute4 = '0.02%%';
+export const PercentageAttribute4 = '0.02%';
 
 export const TypeAttribute5 = 'Face';
 export const ValueAttribute5 = 'Eyes';
@@ -38,11 +38,11 @@ export const PercentageAttribute5 = '0.02%%';
 
 export const TypeAttribute6 = 'Eyes';
 export const ValueAttribute6 = 'Candle';
-export const PercentageAttribute6 = '0.02%%';
+export const PercentageAttribute6 = '0.02%';
 
 export const TypeAttribute7 = 'Background';
 export const ValueAttribute7 = 'Candle';
-export const PercentageAttribute7 = '0.02%%';
+export const PercentageAttribute7 = '0.02%';
 
 
 
