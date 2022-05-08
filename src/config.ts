@@ -8,49 +8,42 @@ export const walletConnectDeepLink = 'https://maiar.page.link/?apn=com.elrond.ma
 
 
 export const NFTContract = 'erd1qqqqqqqqqqqqqpgq32payvmle5ewfaqv9kgyct7medxlwazpvnnsl7afwf';
-export const NFTName = 'Salvadorian Ape #49';
-export const NFTRank = '177';              //Rank :
-export const NFTScore ='353';                // Score:
-export const price = 2.5;    // IN EGLD
-export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/QmRkHxLNnrUYpErMxQvhZwQ3XHvF6LNPhw9AXeZDMtLrTC/554.png';             // the link for the image (media.elrond.etc)
+export const NFTName = 'Nifty Rex #4996';
+export const NFTRank = '5';              //Rank :
+export const NFTScore ='';                // Score:
+export const price = 3.5;    // IN EGLD
+export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/QmaQPUqpiefbDHCHtdeW4MKLC2oorjmZwqcUGY2CJ1VyYr/4996.png';             // the link for the image (media.elrond.etc)
 
 // ATTRIBUTES
 
-export const TypeAttribute1 = 'Background';
-export const ValueAttribute1 = 'Yellow';
-export const PercentageAttribute1 = '2.6%';
+export const TypeAttribute1 = 'Body';
+export const ValueAttribute1 = 'Candle';
+export const PercentageAttribute1 = '0.02%';
 
-export const TypeAttribute2 = 'Ape';
-export const ValueAttribute2 = 'dark beige';
-export const PercentageAttribute2 = '8.0%';
+export const TypeAttribute2 = 'Tail';
+export const ValueAttribute2 = 'Candle';
+export const PercentageAttribute2 = '0.02%%';
 
-export const TypeAttribute3 = 'Skin';
-export const ValueAttribute3 = 'Blank';
-export const PercentageAttribute3 = '74%';
+export const TypeAttribute3 = 'Shirt';
+export const ValueAttribute3 = 'Candle';
+export const PercentageAttribute3 = '0.02%%';
 
-export const TypeAttribute4 = 'Eyes';
-export const ValueAttribute4 = 'rinnegan eyes';
-export const PercentageAttribute4 = '1.9%';
+export const TypeAttribute4 = 'Hat';
+export const ValueAttribute4 = 'Candle';
+export const PercentageAttribute4 = '0.02%%';
 
-export const TypeAttribute5 = 'Hat';
-export const ValueAttribute5 = 'blank';
-export const PercentageAttribute5 = '3.8%';
+export const TypeAttribute5 = 'Face';
+export const ValueAttribute5 = 'Eyes';
+export const PercentageAttribute5 = '0.02%%';
 
-export const TypeAttribute6 = 'Top';
-export const ValueAttribute6 = 'tie dot yellow';
-export const PercentageAttribute6 = '0.45%';
+export const TypeAttribute6 = 'Eyes';
+export const ValueAttribute6 = 'Candle';
+export const PercentageAttribute6 = '0.02%%';
 
-export const TypeAttribute7 = 'Mouth';
-export const ValueAttribute7 = 'normal';
-export const PercentageAttribute7 = '12%';
+export const TypeAttribute7 = 'Background';
+export const ValueAttribute7 = 'Candle';
+export const PercentageAttribute7 = '0.02%%';
 
-export const TypeAttribute8 = 'Accessories';
-export const ValueAttribute8 = 'blank';
-export const PercentageAttribute8 = '68%';
-
-export const TypeAttribute9 = 'earrings';
-export const ValueAttribute9 = 'blank';
-export const PercentageAttribute9 = '';
 
 
 
@@ -60,11 +53,11 @@ export const PercentageAttribute9 = '';
 
 // DETAILS 
 
-export const OwnerAddress = 'erd1ve7l...5s3nzpmc';
-export const CollectionIdentifier = 'SAC-c60db0';
-export const TokenIdentifier = 'SAC-c60db0-31';
-export const CreatorAddress = 'erd1qqqq...5smq4yfh';
-export const ArtistRoyalties = '10%';
+export const OwnerAddress = 'erd12yxv...7qen3jsx';
+export const CollectionIdentifier = 'NIFTYREX-d8c812';
+export const TokenIdentifier = 'NIFTYREX-d8c812-1384';
+export const CreatorAddress = 'erd12yxv...7qen3jsx';
+export const ArtistRoyalties = '7%';
 export const SaleFee = '3%';
 export const ListingFee = 'Free !';
 
