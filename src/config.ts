@@ -9,8 +9,8 @@ export const walletConnectDeepLink = 'https://maiar.page.link/?apn=com.elrond.ma
 
 export const NFTContract = 'erd1qqqqqqqqqqqqqpgq32payvmle5ewfaqv9kgyct7medxlwazpvnnsl7afwf';
 export const NFTName = 'MKR1st #99';
-export const NFTRank = '3';              //Rank :
-export const NFTScore ='611';                // Score:
+export const NFTRank = '6';              //Rank :
+export const NFTScore ='576';                // Score:
 export const price = 2;    // IN EGLD
 export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/QmTzNi8m7XVBuhDkmZWyEi1pawJfkdmr5D8iZGsTQwvAcA/99.mp4';             // the link for the image (media.elrond.etc)
 
