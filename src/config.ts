@@ -8,7 +8,7 @@ export const walletConnectDeepLink = 'https://maiar.page.link/?apn=com.elrond.ma
 
 
 export const NFTContract = 'erd1qqqqqqqqqqqqqpgq32payvmle5ewfaqv9kgyct7medxlwazpvnnsl7afwf';
-export const NFTName = 'MKR1st #99';
+export const NFTName = 'MKR1st #350';
 export const NFTRank = '6';              //Rank :
 export const NFTScore ='576';                // Score:
 export const price = 2;    // IN EGLD
