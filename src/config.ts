@@ -8,37 +8,37 @@ export const walletConnectDeepLink = 'https://maiar.page.link/?apn=com.elrond.ma
 
 
 export const NFTContract = 'erd1qqqqqqqqqqqqqpgq32payvmle5ewfaqv9kgyct7medxlwazpvnnsl7afwf';
-export const NFTName = 'Elrond Ape #453';
-export const NFTRank = '455';              //Rank :
-export const NFTScore ='158';                // Score:
-export const price = 7.69;    // IN EGLD
+export const NFTName = 'MKR1st #99';
+export const NFTRank = '2';              //Rank :
+export const NFTScore ='637';                // Score:
+export const price = 2;    // IN EGLD
 export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/QmTzNi8m7XVBuhDkmZWyEi1pawJfkdmr5D8iZGsTQwvAcA/350.mp4';             // the link for the image (media.elrond.etc)
 
 // ATTRIBUTES
 
 export const TypeAttribute1 = 'Background';
-export const ValueAttribute1 = 'Dark';
+export const ValueAttribute1 = 'Neon';
 export const PercentageAttribute1 = '16%';
 
-export const TypeAttribute2 = 'Type';
-export const ValueAttribute2 = 'Basic Red';
-export const PercentageAttribute2 = '20%';
+export const TypeAttribute2 = 'Body';
+export const ValueAttribute2 = 'RoseQuartz';
+export const PercentageAttribute2 = '1.5%';
 
-export const TypeAttribute3 = 'Eyes';
-export const ValueAttribute3 = 'MetaScreen Love';
-export const PercentageAttribute3 = '2.3%';
+export const TypeAttribute3 = 'Chair';
+export const ValueAttribute3 = 'Gray Gold';
+export const PercentageAttribute3 = '2.9%';
 
-export const TypeAttribute4 = 'Mouth';
-export const ValueAttribute4 = 'Candy Cane';
-export const PercentageAttribute4 = '4.1%';
+export const TypeAttribute4 = 'Engine';
+export const ValueAttribute4 = 'Goldbot';
+export const PercentageAttribute4 = '1.00%';
 
-export const TypeAttribute5 = 'Hat';
-export const ValueAttribute5 = 'Japanese Headband';
-export const PercentageAttribute5 = '3.1%';
+export const TypeAttribute5 = 'Floor';
+export const ValueAttribute5 = 'OrangePathsFloor';
+export const PercentageAttribute5 = '3.4%';
 
-export const TypeAttribute6 = 'Special';
-export const ValueAttribute6 = 'EGLD Gold Necklace';
-export const PercentageAttribute6 = '2.0%';
+export const TypeAttribute6 = 'Wheels';
+export const ValueAttribute6 = 'Rosequartz';
+export const PercentageAttribute6 = '0.25%';
 
 
 
@@ -51,10 +51,10 @@ export const PercentageAttribute6 = '2.0%';
 
 // DETAILS 
 
-export const OwnerAddress = 'erd1qqqq...6qjzhk63';
-export const CollectionIdentifier = 'EAPES-8f3c1f';
+export const OwnerAddress = 'erd1fefv...3q74lswx';
+export const CollectionIdentifier = 'RACE-c06f4e';
 export const TokenIdentifier = 'RACE-c06f4e-0389';
-export const CreatorAddress = 'erd1qqqq...5qc2csfy';
+export const CreatorAddress = 'erd1qqqq...fq6kh3ju';
 export const ArtistRoyalties = '10%';
 export const SaleFee = '3%';
 export const ListingFee = 'Free !';
