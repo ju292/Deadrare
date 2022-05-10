@@ -65,7 +65,7 @@ export const PercentageAttribute9 = '27%';
 // DETAILS 
 
 export const OwnerAddress = 'erd12xun...hs3jyhjt';
-export const CollectionIdentifier = 'PIGLETHH-7357ca;
+export const CollectionIdentifier = 'PIGLETHH-7357ca';
 export const TokenIdentifier = 'PIGLETHH-7357ca-0146';
 export const CreatorAddress = 'erd1qqp6...rqk2pcss';
 export const ArtistRoyalties = '10%';
