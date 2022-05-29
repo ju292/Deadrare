@@ -8,37 +8,37 @@ export const walletConnectDeepLink = 'https://maiar.page.link/?apn=com.elrond.ma
 
 
 export const NFTContract = 'erd1qqqqqqqqqqqqqpgq32payvmle5ewfaqv9kgyct7medxlwazpvnnsl7afwf';
-export const NFTName = 'Piglet #326';
-export const NFTRank = '857';              //Rank :
-export const NFTScore ='32';                // Score:
+export const NFTName = 'ElrondApes #17';
+export const NFTRank = '685';              //Rank :
+export const NFTScore ='148';                // Score:
 export const price = 2;    // IN EGLD
-export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/QmTzNi8m7XVBuhDkmZWyEi1pawJfkdmr5D8iZGsTQwvAcA/350.mp4';             // the link for the image (media.elrond.etc)
+export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/QmRP9FVznm1xxa3FEsDENXhafRDaRWY6LKQdg8GygHNHKw/17.png';             // the link for the image (media.elrond.etc)
 
 // ATTRIBUTES
 
-export const TypeAttribute1 = 'background';
+export const TypeAttribute1 = 'Background';
 export const ValueAttribute1 = 'black';
-export const PercentageAttribute1 = '25%';
+export const PercentageAttribute1 = '16%';
 
-export const TypeAttribute2 = 'body';
-export const ValueAttribute2 = 'body';
-export const PercentageAttribute2 = '100%';
+export const TypeAttribute2 = 'Type';
+export const ValueAttribute2 = 'Basic Red';
+export const PercentageAttribute2 = '20%';
 
-export const TypeAttribute3 = 'shirt';
-export const ValueAttribute3 = 'prison shirt';
-export const PercentageAttribute3 = '28%';
+export const TypeAttribute3 = 'Eyes';
+export const ValueAttribute3 = 'No Glasses';
+export const PercentageAttribute3 = '46%';
 
-export const TypeAttribute4 = 'pant';
-export const ValueAttribute4 = 'diaper';
-export const PercentageAttribute4 = '24%';
+export const TypeAttribute4 = 'Mouth';
+export const ValueAttribute4 = 'Basic';
+export const PercentageAttribute4 = '44%';
 
-export const TypeAttribute5 = 'chain';
-export const ValueAttribute5 = 'no chain';
-export const PercentageAttribute5 = '35%';
+export const TypeAttribute5 = 'Earring';
+export const ValueAttribute5 = 'Banana';
+export const PercentageAttribute5 = '1.0%';
 
-export const TypeAttribute6 = 'eye';
-export const ValueAttribute6 = 'High Eyes';
-export const PercentageAttribute6 = '28%';
+export const TypeAttribute6 = 'Special';
+export const ValueAttribute6 = 'EGLD Wood...';
+export const PercentageAttribute6 = '2.8%';
 
 export const TypeAttribute7 = 'mouth';
 export const ValueAttribute7 = 'tongue normal';
@@ -64,12 +64,12 @@ export const PercentageAttribute9 = '27%';
 
 // DETAILS 
 
-export const OwnerAddress = 'erd12xun...hs3jyhjt';
-export const CollectionIdentifier = 'PIGLETHH-7357ca';
-export const TokenIdentifier = 'PIGLETHH-7357ca-0146';
-export const CreatorAddress = 'erd1qqp6...rqk2pcss';
+export const OwnerAddress = 'erd145ytwmcnvzl0hekeh8t0a6wlwe7julrghpa9terxa5avg2nh3u9qsafqsd';
+export const CollectionIdentifier = 'EAPES-8f3c1f';
+export const TokenIdentifier = 'EAPES-8f3c1f-12';
+export const CreatorAddress = 'erd1qqqq...5qc2csfy';
 export const ArtistRoyalties = '10%';
-export const SaleFee = '5%';
+export const SaleFee = '3%';
 export const ListingFee = 'Free !';
 
 
