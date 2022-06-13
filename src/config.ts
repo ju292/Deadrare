@@ -11,7 +11,7 @@ export const NFTContract = 'erd1qqqqqqqqqqqqqpgq32payvmle5ewfaqv9kgyct7medxlwazp
 export const NFTName = 'ElrondApes #17';
 export const NFTRank = '685';              //Rank :
 export const NFTScore ='148';                // Score:
-export const price = 6.9;    // IN EGLD
+export const price = '6.9';    // IN EGLD
 export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/QmRP9FVznm1xxa3FEsDENXhafRDaRWY6LKQdg8GygHNHKw/17.png';             // the link for the image (media.elrond.etc)
 
 // ATTRIBUTES
