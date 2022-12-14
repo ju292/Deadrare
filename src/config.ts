@@ -8,7 +8,7 @@ export const walletConnectDeepLink = 'https://maiar.page.link/?apn=com.elrond.ma
 
 
 export const NFTContract = 'erd1qqqqqqqqqqqqqpgq32payvmle5ewfaqv9kgyct7medxlwazpvnnsl7afwf';
-export const NFTName = 'ElrondApes #17';
+export const NFTName = 'ElrondApes #1';
 export const NFTRank = '685';              //Rank :
 export const NFTScore ='148';                // Score:
 export const price = '5';    // IN EGLD
