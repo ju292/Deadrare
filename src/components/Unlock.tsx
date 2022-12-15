@@ -32,7 +32,7 @@ const Unlock = () => {
             walletConnectButtonLabel='Maiar App'
             ledgerButtonLabel='Ledger'
             webWalletButtonLabel='Web Wallet'
-            extensionButtonLabel= 'Maiar Browser Extension'
+            extensionButtonLabel= 'Maiar Defi Wallet'
           />
          
         
