@@ -77,7 +77,7 @@ const Home: React.FC = () => {
                 onClick={unlock}
                 id="btnBuy"
               >
-                Buy ({config.price} ELGD)
+                Buy ({config.price} EGLD)
         </Button>
         <div id="offer">
         <div id="offerInputDiv" style={{ width: '50%'}}>
