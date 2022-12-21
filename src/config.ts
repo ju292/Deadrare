@@ -64,7 +64,7 @@ export const PercentageAttribute9 = '27%';
 
 // DETAILS 
 
-export const OwnerAddress = 'evol';
+export const OwnerAddress = 'erd1l7aguatur22nznylt0y95vjua0dpr0h0j6dkm7qx0v7p5m30r7us3722f6';
 export const CollectionIdentifier = 'BAXC-cdf74d-15ee';
 export const TokenIdentifier = 'EBAXC-cdf74d-15ee';
 export const CreatorAddress = 'erd1qqqq...5qc2csfy';
