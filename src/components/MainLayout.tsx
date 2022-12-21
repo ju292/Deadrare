@@ -65,11 +65,10 @@ const MainLayout: React.FC = ({ children }) => {
       <FontAwesomeIcon icon={faBars} />
             </label>
         <li><a className="active" ></a></li>
-        <li><a href="https://elrondindex.io/">Upcoming Drops</a></li>
+        <li><a href="https://elrondindex.io/">Upcoming</a></li>
         <li><a href="https://deadrare.io/">Marketplace</a></li>
-        <li><a href="https://deadrare.io/staking">Staking</a></li>
+        <li><a href="https://deadrare.io/staking">Leaderboard</a></li>
         <li><a href="https://deadrare.io/analytics">Analytics</a></li>
-        <li><a href="https://deadrare.io/faqs">FAQs</a></li>
         <li>{address ? (
               
               <Button
