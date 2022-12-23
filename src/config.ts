@@ -8,41 +8,41 @@ export const walletConnectDeepLink = 'https://maiar.page.link/?apn=com.elrond.ma
 
 
 export const NFTContract = 'erd1qqqqqqqqqqqqqpgq32payvmle5ewfaqv9kgyct7medxlwazpvnnsl7afwf';
-export const NFTName = 'BAXC #5614';
-export const NFTRank = '1213';              //Rank :
-export const NFTScore ='148';                // Score:
-export const price = '5';    // IN EGLD
-export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/Qmf9DdY4tzgU3JEBe8TE88X2uD5pJfAYZRdLvXruRiF1uw/9728.png';             // the link for the image (media.elrond.etc)
+export const NFTName = 'BAXC #1929';
+export const NFTRank = '221';              //Rank :
+export const NFTScore ='458';                // Score:
+export const price = '10';    // IN EGLD
+export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/Qmf9DdY4tzgU3JEBe8TE88X2uD5pJfAYZRdLvXruRiF1uw/3581.png';             // the link for the image (media.elrond.etc)
 
 // ATTRIBUTES
 
 export const TypeAttribute1 = 'Hat';
-export const ValueAttribute1 = 'Halo';
-export const PercentageAttribute1 = '0.40%';
+export const ValueAttribute1 = 'TheKing';
+export const PercentageAttribute1 = '0.19%';
 
-export const TypeAttribute2 = 'Eyes';
-export const ValueAttribute2 = 'Reddish';
-export const PercentageAttribute2 = '3.13%';
+export const TypeAttribute2 = 'Earrings';
+export const ValueAttribute2 = 'GoldSkull';
+export const PercentageAttribute2 = '3.32%';
 
 export const TypeAttribute3 = 'Mouth';
-export const ValueAttribute3 = 'Rage';
-export const PercentageAttribute3 = '3.61%';
+export const ValueAttribute3 = 'SayWah';
+export const PercentageAttribute3 = '3.47%';
 
-export const TypeAttribute4 = 'Fur';
-export const ValueAttribute4 = 'Sky';
-export const PercentageAttribute4 = '8.38%';
+export const TypeAttribute4 = 'Clothes';
+export const ValueAttribute4 = 'XHoodie';
+export const PercentageAttribute4 = '4.48%';
 
-export const TypeAttribute5 = 'Background';
-export const ValueAttribute5 = 'Melon';
-export const PercentageAttribute5 = '12.29%';
+export const TypeAttribute5 = 'Eyes';
+export const ValueAttribute5 = 'Bored';
+export const PercentageAttribute5 = '7.09%';
 
-export const TypeAttribute6 = 'Earrings';
-export const ValueAttribute6 = 'PearlStrass';
-export const PercentageAttribute6 = '12.34%';
+export const TypeAttribute6 = 'Fur';
+export const ValueAttribute6 = 'Sky';
+export const PercentageAttribute6 = '8.38%';
 
-export const TypeAttribute7 = 'mouth';
-export const ValueAttribute7 = 'tongue normal';
-export const PercentageAttribute7 = '21%';
+export const TypeAttribute7 = 'Background';
+export const ValueAttribute7 = 'Lime';
+export const PercentageAttribute7 = '11.30%';
 
 export const TypeAttribute8 = 'sunglass';
 export const ValueAttribute8 = 'Rainbow Glasses';
@@ -64,7 +64,7 @@ export const PercentageAttribute9 = '27%';
 
 // DETAILS 
 
-export const OwnerAddress = 'erd1l7aguatur22nznylt0y95vjua0dpr0h0j6dkm7qx0v7p5m30r7us3722f6';
+export const OwnerAddress = 'erd1prdxgxymx5ux8dq3flat8fgwx8knwyepewles8wynrkpha786puq96ppdk';
 export const CollectionIdentifier = 'BAXC-cdf74d-15ee';
 export const TokenIdentifier = 'EBAXC-cdf74d-15ee';
 export const CreatorAddress = 'erd1qqqq...5qc2csfy';
