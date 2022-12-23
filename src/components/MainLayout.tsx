@@ -59,6 +59,7 @@ const MainLayout: React.FC = ({ children }) => {
                       <img id="logoNavbar"  src='https://deadrare.io/_next/image?url=%2Ffavicon.png&w=32&q=75'  alt="" />
                        <a className="btnNAV" ><strong>DEADRARE</strong></a>
 
+
                   </div></label>
       <ul>
       <label htmlFor="check" className="checkbtn checkbtn2">
