@@ -66,7 +66,7 @@ export const PercentageAttribute9 = '27%';
 
 export const OwnerAddress = 'erd1prdxgxymx5ux8dq3flat8fgwx8knwyepewles8wynrkpha786puq96ppdk';
 export const CollectionIdentifier = 'BAXC-cdf74d-15ee';
-export const TokenIdentifier = 'EBAXC-cdf74d-15ee';
+export const TokenIdentifier = 'BAXC-cdf74d-15ee';
 export const CreatorAddress = 'erd1qqqq...5qc2csfy';
 export const ArtistRoyalties = '10%';
 export const SaleFee = '3%';
