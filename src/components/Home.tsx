@@ -169,12 +169,7 @@ const Home: React.FC = () => {
                 
                 
                
-                  </div>
-              <div className="attribute">
-              <p>{config.TypeAttribute7}</p>
-                <strong>{config.ValueAttribute7}</strong>
-                <p>{config.PercentageAttribute7}</p>
-                
+            
             
               
                
