@@ -22,7 +22,7 @@ export const PercentageAttribute1 = '0.50%';
 
 export const TypeAttribute2 = 'Eyes';
 export const ValueAttribute2 = '3D';
-export const PercentageAttribute2 = '3.14
+export const PercentageAttribute2 = '3.14%';
 
 export const TypeAttribute3 = 'Mouth';
 export const ValueAttribute3 = 'Rage';
