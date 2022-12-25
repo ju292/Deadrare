@@ -55,9 +55,9 @@ export const PercentageAttribute6 = '12.34%';
 // DETAILS 
 
 export const OwnerAddress = 'erd1ry55usd8hjyk37mf85a9ev586l94rvrda90nzl6c4z8ytq8z9vws672yk8';
-export const CollectionIdentifier = 'EAPES-8f3c1f';
-export const TokenIdentifier = 'EAPES-8f3c1f-1ef3';
-export const CreatorAddress = 'erd1qqqqqqqqqqqqqpgq7gma4udjeh3mwuq4lmk7wccgh0tenxu6yv5qc2csfy';
+export const CollectionIdentifier = 'BAXC-cdf74d';
+export const TokenIdentifier = 'BAXC-cdf74d-1760';
+export const CreatorAddress = 'erd1qqqqqqqqqqqqqpgqengxksed64chl3zrxc5fjl97cz9nunmkys5sxf69aa';
 export const ArtistRoyalties = '10%';
 export const SaleFee = '2%';
 export const ListingFee = 'Free !';
