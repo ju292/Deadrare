@@ -168,6 +168,14 @@ const Home: React.FC = () => {
                 <p>{config.PercentageAttribute6}</p>
                 
                 
+                
+                </div>
+              <div className="attribute">
+              <p>{config.TypeAttribute7}</p>
+                <strong>{config.ValueAttribute7}</strong>
+                <p>{config.PercentageAttribute7}</p>
+                
+                
                
             
             
