@@ -17,28 +17,28 @@ export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/Qmf9DdY4tzgU3JE
 // ATTRIBUTES
 
 export const TypeAttribute1 = 'Clothes';
-export const ValueAttribute1 = 'Astronaut';
-export const PercentageAttribute1 = '0.50%';
+export const ValueAttribute1 = 'EGLD Priest';
+export const PercentageAttribute1 = '1.26%';
 
 export const TypeAttribute2 = 'Eyes';
-export const ValueAttribute2 = '3D';
-export const PercentageAttribute2 = '3.14%';
+export const ValueAttribute2 = 'Sinner';
+export const PercentageAttribute2 = '6.17%';
 
 export const TypeAttribute3 = 'Mouth';
-export const ValueAttribute3 = 'Rage';
-export const PercentageAttribute3 = '3.61%';
+export const ValueAttribute3 = 'ShavedPipe';
+export const PercentageAttribute3 = '0.87%';
 
 export const TypeAttribute4 = 'Fur';
-export const ValueAttribute4 = 'Cream';
-export const PercentageAttribute4 = '8.59%';
+export const ValueAttribute4 = 'Grey';
+export const PercentageAttribute4 = '3.95%';
 
 export const TypeAttribute5 = 'Background';
-export const ValueAttribute5 = 'Peach';
-export const PercentageAttribute5 = '11.26%';
+export const ValueAttribute5 = 'Snow';
+export const PercentageAttribute5 = '12.06%';
 
 export const TypeAttribute6 = 'Earrings';
-export const ValueAttribute6 = 'PearlStrass';
-export const PercentageAttribute6 = '12.34%';
+export const ValueAttribute6 = 'GoldCross';
+export const PercentageAttribute6 = '2.14%';
 
 
 
@@ -54,9 +54,9 @@ export const PercentageAttribute6 = '12.34%';
 
 // DETAILS 
 
-export const OwnerAddress = 'erd1ry55usd8hjyk37mf85a9ev586l94rvrda90nzl6c4z8ytq8z9vws672yk8';
+export const OwnerAddress = 'erd1ek9npfzqzvh9gnrnxdley93aucmvfvr69znnqunc5900v4cfz0eqsxj4nx';
 export const CollectionIdentifier = 'BAXC-cdf74d';
-export const TokenIdentifier = 'BAXC-cdf74d-1760';
+export const TokenIdentifier = 'BAXC-cdf74d-Oc6d';
 export const CreatorAddress = 'erd1qqqqqqqqqqqqqpgqengxksed64chl3zrxc5fjl97cz9nunmkys5sxf69aa';
 export const ArtistRoyalties = '10%';
 export const SaleFee = '2%';
