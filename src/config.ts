@@ -40,9 +40,9 @@ export const TypeAttribute6 = 'Earrings';
 export const ValueAttribute6 = 'SilverlStrass';
 export const PercentageAttribute6 = '12.34%';
 
-export const TypeAttribute6 = 'Hat';
-export const ValueAttribute6 = 'WinterHat';
-export const PercentageAttribute6 = '2.71%';
+export const TypeAttribute7 = 'Hat';
+export const ValueAttribute7 = 'WinterHat';
+export const PercentageAttribute7 = '2.71%';
 
 
 
