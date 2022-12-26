@@ -11,7 +11,7 @@ export const NFTContract = 'erd1qqqqqqqqqqqqqpgq32payvmle5ewfaqv9kgyct7medxlwazp
 export const NFTName = 'BAXC #5045';
 export const NFTRank = '577';              //Rank :
 export const NFTScore ='95';                // Score:
-export const price = '9';    // IN EGLD
+export const price = '8.5';    // IN EGLD
 export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/Qmf9DdY4tzgU3JEBe8TE88X2uD5pJfAYZRdLvXruRiF1uw/4809.png';             // the link for the image (media.elrond.etc)
 
 // ATTRIBUTES
