@@ -16,68 +16,68 @@ export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/Qmf9DdY4tzgU3JE
 
 // ATTRIBUTES
 
-export const TypeAttribute1 = 'Clothes';
-export const ValueAttribute1 = 'LeatherX';
-export const PercentageAttribute1 = '0.30%';
+export const TypeAttribute1 = 'Species';
+export const ValueAttribute1 = 'Genesis Space Ape';
+export const PercentageAttribute1 = '100%';
 
-export const TypeAttribute2 = 'Eyes';
-export const ValueAttribute2 = 'Reddish';
-export const PercentageAttribute2 = '3.46%';
+export const TypeAttribute2 = 'Rarity Class';
+export const ValueAttribute2 = 'Silver';
+export const PercentageAttribute2 = '30.02%';
 
-export const TypeAttribute3 = 'Mouth';
-export const ValueAttribute3 = 'Rage';
-export const PercentageAttribute3 = '3.46%';
+export const TypeAttribute3 = 'Head';
+export const ValueAttribute3 = 'Default';
+export const PercentageAttribute3 = '100%';
 
-export const TypeAttribute4 = 'Fur';
-export const ValueAttribute4 = 'Red';
-export const PercentageAttribute4 = '8.38%';
+export const TypeAttribute4 = 'Face';
+export const ValueAttribute4 = 'None';
+export const PercentageAttribute4 = '100%';
 
-export const TypeAttribute5 = 'Background';
-export const ValueAttribute5 = 'Melon';
-export const PercentageAttribute5 = '12.29%';
+export const TypeAttribute5 = 'Skin';
+export const ValueAttribute5 = 'Chrome';
+export const PercentageAttribute5 = '2.44%';
 
-export const TypeAttribute6 = 'Earrings';
-export const ValueAttribute6 = 'SilverlStrass';
-export const PercentageAttribute6 = '12.34%';
+export const TypeAttribute6 = 'Eyes';
+export const ValueAttribute6 = 'Cybord Blue';
+export const PercentageAttribute6 = '2.55%';
 
-export const TypeAttribute7 = 'Hat';
-export const ValueAttribute7 = 'WinterHat';
-export const PercentageAttribute7 = '2.71%';
+export const TypeAttribute7 = 'Mouth';
+export const ValueAttribute7 = 'Phenomene Oh';
+export const PercentageAttribute7 = '6.83%';
 
-export const TypeAttribute8 = 'Hat';
-export const ValueAttribute8 = 'WinterHat';
-export const PercentageAttribute8 = '2.71%';
+export const TypeAttribute8 = 'Earrings';
+export const ValueAttribute8 = 'Silver Double Stud';
+export const PercentageAttribute8 = '3.74%';
 
-export const TypeAttribute9 = 'Hat';
-export const ValueAttribute9 = 'WinterHat';
-export const PercentageAttribute9 = '2.71%';
-
-
-
-export const TypeAttribute11 = 'Hat';
-export const ValueAttribute11 = 'WinterHat';
-export const PercentageAttribute11 = '2.71%';
-
-export const TypeAttribute12 = 'Hat';
-export const ValueAttribute12 = 'WinterHat';
-export const PercentageAttribute12 = '2.71%';
-
-export const TypeAttribute13 = 'Hat';
-export const ValueAttribute13 = 'WinterHat';
-export const PercentageAttribute13 = '2.71%';
-
-export const TypeAttribute14 = 'Hat';
-export const ValueAttribute14 = 'WinterHat';
-export const PercentageAttribute14 = '2.71%';
-
-export const TypeAttribute15 = 'Hat';
-export const ValueAttribute15 = 'WinterHat';
-export const PercentageAttribute15 = '2.71%';
+export const TypeAttribute9 = 'Headgear';
+export const ValueAttribute9 = 'Headband Black';
+export const PercentageAttribute9 = '2.03%';
 
 
-export const TypeAttribute16 = 'Hat';
-export const ValueAttribute16 = 'WinterHat';
-export const PercentageAttribute16 = '2.71%';
+
+export const TypeAttribute11 = 'Body';
+export const ValueAttribute11 = 'Large Vest Orange';
+export const PercentageAttribute11 = '0.92%';
+
+export const TypeAttribute12 = 'Legs';
+export const ValueAttribute12 = 'Mercenary Pants Red';
+export const PercentageAttribute12 = '2.11%';
+
+export const TypeAttribute13 = 'LegAccessories';
+export const ValueAttribute13 = 'Tech Belt Black';
+export const PercentageAttribute13 = '1.35%';
+
+export const TypeAttribute14 = 'Background';
+export const ValueAttribute14 = 'Artic';
+export const PercentageAttribute14 = '30.02%';
+
+export const TypeAttribute15 = 'Perk 1';
+export const ValueAttribute15 = 'Explosive Weapons Proficiency';
+export const PercentageAttribute15 = '4.76%';
+
+
+export const TypeAttribute16 = 'Perk 2';
+export const ValueAttribute16 = 'Stonewall';
+export const PercentageAttribute16 = '4.47%';
 
 
 
@@ -92,11 +92,11 @@ export const PercentageAttribute16 = '2.71%';
 
 // DETAILS 
 
-export const OwnerAddress = 'erd1gtzlvxxth07cdm7wxqnurrln63926z9n4j6x6q6vkzerhw0jwkhqedx07r';
+export const OwnerAddress = 'erd1lp8m2fczk0mcpcggcm4j8sl5ymurh5wp9wmy4vnu8fqa8wjppvesuav0c6';
 export const CollectionIdentifier = 'BAXC-cdf74d';
-export const TokenIdentifier = 'BAXC-cdf74d-13b5';
+export const TokenIdentifier = 'GSPACEAPE-08bc2b-330e';
 export const CreatorAddress = 'erd1qqqqqqqqqqqqqpgqengxksed64chl3zrxc5fjl97cz9nunmkys5sxf69aa';
-export const ArtistRoyalties = '10%';
+export const ArtistRoyalties = '5%';
 export const SaleFee = '2%';
 export const ListingFee = 'Free !';
 
