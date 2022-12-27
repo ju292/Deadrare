@@ -276,6 +276,13 @@ const MintTab = () => {
                 <p>{config.PercentageAttribute15}</p>
                 
                 
+                   </div>
+              <div className="attribute">
+              <p>{config.TypeAttribute16}</p>
+                <strong>{config.ValueAttribute16}</strong>
+                <p>{config.PercentageAttribute16}</p>
+                
+                
          
                 
           
