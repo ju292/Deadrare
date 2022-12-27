@@ -8,8 +8,8 @@ export const walletConnectDeepLink = 'https://maiar.page.link/?apn=com.elrond.ma
 
 
 export const NFTContract = 'erd1qqqqqqqqqqqqqpgq32payvmle5ewfaqv9kgyct7medxlwazpvnnsl7afwf';
-export const NFTName = 'BAXC #5045';
-export const NFTRank = '577';              //Rank :
+export const NFTName = 'GenesisSpaceApe #5973';
+export const NFTRank = '3959';              //Rank :
 export const NFTScore ='95';                // Score:
 export const price = '8.5';    // IN EGLD
 export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/Qmf9DdY4tzgU3JEBe8TE88X2uD5pJfAYZRdLvXruRiF1uw/4809.png';             // the link for the image (media.elrond.etc)
@@ -93,8 +93,8 @@ export const PercentageAttribute16 = '4.47%';
 // DETAILS 
 
 export const OwnerAddress = 'erd1lp8m2fczk0mcpcggcm4j8sl5ymurh5wp9wmy4vnu8fqa8wjppvesuav0c6';
-export const CollectionIdentifier = 'BAXC-cdf74d';
-export const TokenIdentifier = 'GSPACEAPE-08bc2b-330e';
+export const CollectionIdentifier = 'GSPACEAPE-08bc2b';
+export const TokenIdentifier = 'GSPACEAPE-08bc2b-30b2';
 export const CreatorAddress = 'erd1qqqqqqqqqqqqqpgqengxksed64chl3zrxc5fjl97cz9nunmkys5sxf69aa';
 export const ArtistRoyalties = '5%';
 export const SaleFee = '2%';
