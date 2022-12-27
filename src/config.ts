@@ -44,6 +44,38 @@ export const TypeAttribute7 = 'Hat';
 export const ValueAttribute7 = 'WinterHat';
 export const PercentageAttribute7 = '2.71%';
 
+export const TypeAttribute8 = 'Hat';
+export const ValueAttribute8 = 'WinterHat';
+export const PercentageAttribute8 = '2.71%';
+
+export const TypeAttribute9 = 'Hat';
+export const ValueAttribute9 = 'WinterHat';
+export const PercentageAttribute9 = '2.71%';
+
+export const TypeAttribut10 = 'Hat';
+export const ValueAttribute10 = 'WinterHat';
+export const PercentageAttribute10 = '2.71%';
+
+export const TypeAttribute11 = 'Hat';
+export const ValueAttribute11 = 'WinterHat';
+export const PercentageAttribute11 = '2.71%';
+
+export const TypeAttribute12 = 'Hat';
+export const ValueAttribute12 = 'WinterHat';
+export const PercentageAttribute12 = '2.71%';
+
+export const TypeAttribute13 = 'Hat';
+export const ValueAttribute13 = 'WinterHat';
+export const PercentageAttribute13 = '2.71%';
+
+export const TypeAttribute14 = 'Hat';
+export const ValueAttribute14 = 'WinterHat';
+export const PercentageAttribute14 = '2.71%';
+
+export const TypeAttribute15 = 'Hat';
+export const ValueAttribute15 = 'WinterHat';
+export const PercentageAttribute15 = '2.71%';
+
 
 
 
