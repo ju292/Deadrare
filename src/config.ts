@@ -75,6 +75,10 @@ export const ValueAttribute15 = 'WinterHat';
 export const PercentageAttribute15 = '2.71%';
 
 
+export const TypeAttribute16 = 'Hat';
+export const ValueAttribute16 = 'WinterHat';
+export const PercentageAttribute16 = '2.71%';
+
 
 
 
