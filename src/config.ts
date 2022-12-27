@@ -52,9 +52,7 @@ export const TypeAttribute9 = 'Hat';
 export const ValueAttribute9 = 'WinterHat';
 export const PercentageAttribute9 = '2.71%';
 
-export const TypeAttribut10 = 'Hat';
-export const ValueAttribute10 = 'WinterHat';
-export const PercentageAttribute10 = '2.71%';
+
 
 export const TypeAttribute11 = 'Hat';
 export const ValueAttribute11 = 'WinterHat';
