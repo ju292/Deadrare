@@ -37,7 +37,7 @@ export const ValueAttribute5 = 'Chrome';
 export const PercentageAttribute5 = '2.44%';
 
 export const TypeAttribute6 = 'Eyes';
-export const ValueAttribute6 = 'Cybord Blue';
+export const ValueAttribute6 = 'Cyborg Blue';
 export const PercentageAttribute6 = '2.55%';
 
 export const TypeAttribute7 = 'Mouth';
