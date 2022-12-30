@@ -18,66 +18,66 @@ export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/bafybeicsa2ygmo
 
 export const TypeAttribute1 = 'Species';
 export const ValueAttribute1 = 'Genesis Space Ape';
-export const PercentageAttribute1 = '100%';
+export const PercentageAttribute1 = '6.1%';
 
 export const TypeAttribute2 = 'Rarity Class';
 export const ValueAttribute2 = 'Legendary';
-export const PercentageAttribute2 = '3.87%';
+export const PercentageAttribute2 = '0.32%';
 
 export const TypeAttribute3 = 'Head';
 export const ValueAttribute3 = 'Default';
-export const PercentageAttribute3 = '100%';
+export const PercentageAttribute3 = '6.1%';
 
 export const TypeAttribute4 = 'Face';
 export const ValueAttribute4 = 'None';
-export const PercentageAttribute4 = '100%';
+export const PercentageAttribute4 = '6.1%';
 
 export const TypeAttribute5 = 'Skin';
-export const ValueAttribute5 = 'Chrome';
-export const PercentageAttribute5 = '2.44%';
+export const ValueAttribute5 = 'Muerto';
+export const PercentageAttribute5 = '0.09%';
 
 export const TypeAttribute6 = 'Eyes';
-export const ValueAttribute6 = 'Cyborg Blue';
-export const PercentageAttribute6 = '2.55%';
+export const ValueAttribute6 = 'Angry';
+export const PercentageAttribute6 = '0.62%';
 
 export const TypeAttribute7 = 'Mouth';
-export const ValueAttribute7 = 'Phenomene Oh';
-export const PercentageAttribute7 = '6.83%';
+export const ValueAttribute7 = 'Jovial';
+export const PercentageAttribute7 = '0.36%';
 
 export const TypeAttribute8 = 'Earrings';
-export const ValueAttribute8 = 'Silver Double Stud';
-export const PercentageAttribute8 = '3.74%';
+export const ValueAttribute8 = 'Gold Cross';
+export const PercentageAttribute8 = '0.27%';
 
 export const TypeAttribute9 = 'Headgear';
-export const ValueAttribute9 = 'Headband Black';
-export const PercentageAttribute9 = '2.03%';
+export const ValueAttribute9 = 'Fluffy Hat';
+export const PercentageAttribute9 = '0.02%';
 
 
 
 export const TypeAttribute11 = 'Body';
-export const ValueAttribute11 = 'Large Vest Orange';
-export const PercentageAttribute11 = '0.92%';
+export const ValueAttribute11 = 'Rogue Armor';
+export const PercentageAttribute11 = '0.03%';
 
 export const TypeAttribute12 = 'Legs';
-export const ValueAttribute12 = 'Mercenary Pants Red';
-export const PercentageAttribute12 = '2.11%';
+export const ValueAttribute12 = 'Pilot Pants Green';
+export const PercentageAttribute12 = '0.16%';
 
 export const TypeAttribute13 = 'LegAccessories';
-export const ValueAttribute13 = 'Tech Belt Black';
-export const PercentageAttribute13 = '1.35%';
+export const ValueAttribute13 = 'Waistband Orange';
+export const PercentageAttribute13 = '0.02%';
 
 export const TypeAttribute14 = 'Background';
-export const ValueAttribute14 = 'Artic';
-export const PercentageAttribute14 = '30.02%';
+export const ValueAttribute14 = 'Neon';
+export const PercentageAttribute14 = '0.32%';
 
 export const TypeAttribute15 = 'Perk 1';
 export const ValueAttribute15 = 'Precision Weapons Proficiency';
-export const PercentageAttribute15 = '2.06%';
+export const PercentageAttribute15 = '0.24%';
 
 
 export const TypeAttribute16 = 'Perk 2';
 export const ValueAttribute16 = 'Elemental Weapons Proficiency';
-export const PercentageAttribute16 = '4.47%';
+export const PercentageAttribute16 = '0.18%';
 
 
 
