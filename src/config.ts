@@ -8,11 +8,11 @@ export const walletConnectDeepLink = 'https://maiar.page.link/?apn=com.elrond.ma
 
 
 export const NFTContract = 'erd1qqqqqqqqqqqqqpgq32payvmle5ewfaqv9kgyct7medxlwazpvnnsl7afwf';
-export const NFTName = 'GenesisSpaceApe #5973';
-export const NFTRank = '3959';              //Rank :
+export const NFTName = 'GenesisSpaceApe #704';
+export const NFTRank = '1270';              //Rank :
 export const NFTScore ='95';                // Score:
-export const price = '3.7';    // IN EGLD
-export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/bafybeicsa2ygmod3btvjtdvf6pofhp4vtjgfzgpmjhmgiryunrceccxmee/5973.png';             // the link for the image (media.elrond.etc)
+export const price = '14.5';    // IN EGLD
+export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/bafybeicsa2ygmod3btvjtdvf6pofhp4vtjgfzgpmjhmgiryunrceccxmee/704.png';             // the link for the image (media.elrond.etc)
 
 // ATTRIBUTES
 
@@ -21,8 +21,8 @@ export const ValueAttribute1 = 'Genesis Space Ape';
 export const PercentageAttribute1 = '100%';
 
 export const TypeAttribute2 = 'Rarity Class';
-export const ValueAttribute2 = 'Silver';
-export const PercentageAttribute2 = '30.02%';
+export const ValueAttribute2 = 'Legendary';
+export const PercentageAttribute2 = '3.87%';
 
 export const TypeAttribute3 = 'Head';
 export const ValueAttribute3 = 'Default';
@@ -71,12 +71,12 @@ export const ValueAttribute14 = 'Artic';
 export const PercentageAttribute14 = '30.02%';
 
 export const TypeAttribute15 = 'Perk 1';
-export const ValueAttribute15 = 'Explosive Weapons Proficiency';
-export const PercentageAttribute15 = '4.76%';
+export const ValueAttribute15 = 'Precision Weapons Proficiency';
+export const PercentageAttribute15 = '2.06%';
 
 
 export const TypeAttribute16 = 'Perk 2';
-export const ValueAttribute16 = 'Stonewall';
+export const ValueAttribute16 = 'Elemental Weapons Proficiency';
 export const PercentageAttribute16 = '4.47%';
 
 
@@ -92,9 +92,9 @@ export const PercentageAttribute16 = '4.47%';
 
 // DETAILS 
 
-export const OwnerAddress = 'erd1lp8m2fczk0mcpcggcm4j8sl5ymurh5wp9wmy4vnu8fqa8wjppvesuav0c6';
+export const OwnerAddress = 'erd160p9vp5lnjf7dvur0hal6mggdl25vw0qr3fpn8edsew30q7dhu5q442fwm';
 export const CollectionIdentifier = 'GSPACEAPE-08bc2b';
-export const TokenIdentifier = 'GSPACEAPE-08bc2b-30b2';
+export const TokenIdentifier = 'GSPACEAPE-08bc2b-15e7';
 export const CreatorAddress = 'erd1qqqqqqqqqqqqqpgqengxksed64chl3zrxc5fjl97cz9nunmkys5sxf69aa';
 export const ArtistRoyalties = '5%';
 export const SaleFee = '2%';
