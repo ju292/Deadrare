@@ -71,7 +71,7 @@ export const ValueAttribute14 = 'Neon';
 export const PercentageAttribute14 = '0.32%';
 
 export const TypeAttribute15 = 'Perk 1';
-export const ValueAttribute15 = 'Precision Weapons Proficiency';
+export const ValueAttribute15 = 'Black Widow';
 export const PercentageAttribute15 = '0.24%';
 
 
