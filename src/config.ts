@@ -59,7 +59,7 @@ export const PercentageAttribute7 = '1.76%';
 // DETAILS 
 
 export const OwnerAddress = 'erd1h873wrc6x2vzrvhke58350y4sua0r5eglhn5vhdg929uy662lalq95z9se';
-export const CollectionIdentifier = 'GSPACEAPE-08bc2b';
+export const CollectionIdentifier = 'BAXC-cdf74d';
 export const TokenIdentifier = 'BAXC-cdf74d-23fd';
 export const CreatorAddress = 'erd1qqqqqqqqqqqqqpgqengxksed64chl3zrxc5fjl97cz9nunmkys5sxf69aa';
 export const ArtistRoyalties = '10%';
