@@ -10,7 +10,7 @@ export const walletConnectDeepLink = 'https://maiar.page.link/?apn=com.elrond.ma
 export const NFTContract = 'erd1qqqqqqqqqqqqqpgq32payvmle5ewfaqv9kgyct7medxlwazpvnnsl7afwf';
 export const NFTName = 'BAXC #9213';
 export const NFTRank = '200';              //Rank :
-export const NFTScore ='95';                // Score:
+export const NFTScore ='431';                // Score:
 export const price = '20';    // IN EGLD
 export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/Qmf9DdY4tzgU3JEBe8TE88X2uD5pJfAYZRdLvXruRiF1uw/1964.png';             // the link for the image (media.elrond.etc)
 
