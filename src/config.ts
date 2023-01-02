@@ -8,42 +8,85 @@ export const walletConnectDeepLink = 'https://maiar.page.link/?apn=com.elrond.ma
 
 
 export const NFTContract = 'erd1qqqqqqqqqqqqqpgq32payvmle5ewfaqv9kgyct7medxlwazpvnnsl7afwf';
-export const NFTName = 'BAXC #9213';
-export const NFTRank = '200';              //Rank :
+export const NFTName = 'GenesisSpaceApe #237';
+export const NFTRank = '210';              //Rank :
 export const NFTScore ='431';                // Score:
-export const price = '20';    // IN EGLD
-export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/Qmf9DdY4tzgU3JEBe8TE88X2uD5pJfAYZRdLvXruRiF1uw/1964.png';             // the link for the image (media.elrond.etc)
+export const price = '15';    // IN EGLD
+export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/bafybeicsa2ygmod3btvjtdvf6pofhp4vtjgfzgpmjhmgiryunrceccxmee/237.png';             // the link for the image (media.elrond.etc)
 
 // ATTRIBUTES
 
-export const TypeAttribute1 = 'Clothes';
-export const ValueAttribute1 = 'XHoodie';
-export const PercentageAttribute1 = '6.1%';
+export const TypeAttribute1 = 'Species';
+export const ValueAttribute1 = 'Genesis Space Ape';
+export const PercentageAttribute1 = '100%';
 
-export const TypeAttribute2 = 'Earrings';
-export const ValueAttribute2 = 'PearlChain';
-export const PercentageAttribute2 = '0.32%';
+export const TypeAttribute2 = 'Rarity Class';
+export const ValueAttribute2 = 'Legendary';
+export const PercentageAttribute2 = '4.96%';
 
-export const TypeAttribute3 = 'Eyes';
-export const ValueAttribute3 = 'Depressed';
-export const PercentageAttribute3 = '1.98%';
+export const TypeAttribute3 = 'Head';
+export const ValueAttribute3 = 'Default';
+export const PercentageAttribute3 = '100%';
 
-export const TypeAttribute4 = 'Fur';
-export const ValueAttribute4 = 'Purple';
-export const PercentageAttribute4 = '1.82%';
+export const TypeAttribute4 = 'Face';
+export const ValueAttribute4 = 'None';
+export const PercentageAttribute4 = '100%';
 
-export const TypeAttribute5 = 'Background';
-export const ValueAttribute5 = 'Peach';
-export const PercentageAttribute5 = '11.26%';
+export const TypeAttribute5 = 'Skin';
+export const ValueAttribute5 = 'Devil';
+export const PercentageAttribute5 = '1.38%';
 
-export const TypeAttribute6 = 'Hat';
-export const ValueAttribute6 = 'TheKing';
-export const PercentageAttribute6 = '0.19%';
+export const TypeAttribute6 = 'Eyes';
+export const ValueAttribute6 = 'Holographic Red';
+export const PercentageAttribute6 = '2.30%';
 
 export const TypeAttribute7 = 'Mouth';
-export const ValueAttribute7 = 'BoredTongue';
+export const ValueAttribute7 = 'Phoneme Wah';
 export const PercentageAttribute7 = '1.76%';
 
+
+export const TypeAttribute8 = 'Earrings';
+export const ValueAttribute8 = 'Gold Double Helix';
+export const PercentageAttribute8 = '1.76%';
+
+
+export const TypeAttribute9 = 'Legs';
+export const ValueAttribute9 = 'Titan Pants Neon';
+export const PercentageAttribute9 = '0.16%';
+
+
+
+export const TypeAttribute10 = 'LegAcessories';
+export const ValueAttribute10 = 'Pilots Bags Red';
+export const PercentageAttribute10 = '1.76%';
+
+
+export const TypeAttribute11 = 'Background';
+export const ValueAttribute11 = 'Neon';
+export const PercentageAttribute11 = '4.96%';
+
+
+
+export const TypeAttribute12 = 'Headgear';
+export const ValueAttribute12 = 'Fluffy Hat Black';
+export const PercentageAttribute12 = '1.07%';
+
+
+
+export const TypeAttribute13 = 'Body';
+export const ValueAttribute13 = 'Rogue Armor Green';
+export const PercentageAttribute13 = '0.71%';
+
+
+export const TypeAttribute14 = 'Perk 1';
+export const ValueAttribute14 = 'Scatter Weapon Proficiency';
+export const PercentageAttribute14 = '5.06%';
+
+
+
+export const TypeAttribute15 = 'Perk 2';
+export const ValueAttribute15 = 'Elemental Weapon Proficiency';
+export const PercentageAttribute15 = '3.89%';
 
 
 
@@ -58,7 +101,7 @@ export const PercentageAttribute7 = '1.76%';
 
 // DETAILS 
 
-export const OwnerAddress = 'erd1h873wrc6x2vzrvhke58350y4sua0r5eglhn5vhdg929uy662lalq95z9se';
+export const OwnerAddress = 'erd14r3e249gukxj2hnua8crvmev7c8nn54fcm92qtwuzyhun6q29u6qvpvgq9';
 export const CollectionIdentifier = 'BAXC-cdf74d';
 export const TokenIdentifier = 'BAXC-cdf74d-23fd';
 export const CreatorAddress = 'erd1qqqqqqqqqqqqqpgqengxksed64chl3zrxc5fjl97cz9nunmkys5sxf69aa';
