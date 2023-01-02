@@ -102,9 +102,9 @@ export const PercentageAttribute15 = '3.89%';
 // DETAILS 
 
 export const OwnerAddress = 'erd14r3e249gukxj2hnua8crvmev7c8nn54fcm92qtwuzyhun6q29u6qvpvgq9';
-export const CollectionIdentifier = 'GSPACEAPE-08bc-2b';
-export const TokenIdentifier = 'BAXC-cdf74d-23fd';
-export const CreatorAddress = 'erd1qqqqqqqqqqqqqpgqengxksed64chl3zrxc5fjl97cz9nunmkys5sxf69aa';
+export const CollectionIdentifier = 'GSPACEAPE-08bc2b';
+export const TokenIdentifier = 'GSPACEAPE-08bc2b-02cd';
+export const CreatorAddress = 'erd1qqqqqqqqqqqqqpgq9t4l4rm2fr9h4fv05u2ld5eh99a7hlmua9rspf78gp';
 export const ArtistRoyalties = '10%';
 export const SaleFee = '2%';
 export const ListingFee = 'Free !';
