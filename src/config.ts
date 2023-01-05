@@ -85,7 +85,7 @@ export const PercentageAttribute14 = '5.06%';
 
 
 export const TypeAttribute15 = 'Perk 2';
-export const ValueAttribute15 = 'Overshield';
+export const ValueAttribute15 = 'Scavenger';
 export const PercentageAttribute15 = '3.89%';
 
 
