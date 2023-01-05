@@ -79,7 +79,7 @@ export const PercentageAttribute13 = '0.71%';
 
 
 export const TypeAttribute14 = 'Perk 1';
-export const ValueAttribute14 = 'Scatter Weapon Proficiency';
+export const ValueAttribute14 = 'Black Widow';
 export const PercentageAttribute14 = '5.06%';
 
 
