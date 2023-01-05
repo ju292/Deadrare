@@ -8,7 +8,7 @@ export const walletConnectDeepLink = 'https://maiar.page.link/?apn=com.elrond.ma
 
 
 export const NFTContract = 'erd1qqqqqqqqqqqqqpgq32payvmle5ewfaqv9kgyct7medxlwazpvnnsl7afwf';
-export const NFTName = 'GenesisSpaceApe #4431';
+export const NFTName = 'GenesisSpaceApe #4137';
 export const NFTRank = '2203';              //Rank :
 export const NFTScore ='431';                // Score:
 export const price = '4.85';    // IN EGLD
