@@ -8,8 +8,8 @@ export const walletConnectDeepLink = 'https://maiar.page.link/?apn=com.elrond.ma
 
 
 export const NFTContract = 'erd1qqqqqqqqqqqqqpgq32payvmle5ewfaqv9kgyct7medxlwazpvnnsl7afwf';
-export const NFTName = 'GenesisSpaceApe #237';
-export const NFTRank = '210';              //Rank :
+export const NFTName = 'GenesisSpaceApe #4431';
+export const NFTRank = '2203';              //Rank :
 export const NFTScore ='431';                // Score:
 export const price = '15';    // IN EGLD
 export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/bafybeicsa2ygmod3btvjtdvf6pofhp4vtjgfzgpmjhmgiryunrceccxmee/237.png';             // the link for the image (media.elrond.etc)
@@ -21,7 +21,7 @@ export const ValueAttribute1 = 'Genesis Space Ape';
 export const PercentageAttribute1 = '100%';
 
 export const TypeAttribute2 = 'Rarity Class';
-export const ValueAttribute2 = 'Legendary';
+export const ValueAttribute2 = 'Gold';
 export const PercentageAttribute2 = '4.96%';
 
 export const TypeAttribute3 = 'Head';
@@ -101,7 +101,7 @@ export const PercentageAttribute15 = '3.89%';
 
 // DETAILS 
 
-export const OwnerAddress = 'erd14r3e249gukxj2hnua8crvmev7c8nn54fcm92qtwuzyhun6q29u6qvpvgq9';
+export const OwnerAddress = 'erd16dcpqqrcmvk858xsusxmqmpgvf7lxph0e88ymzs3kkwnum3h4uss037ke4';
 export const CollectionIdentifier = 'GSPACEAPE-08bc2b';
 export const TokenIdentifier = 'GSPACEAPE-08bc2b-02cd';
 export const CreatorAddress = 'erd1qqqqqqqqqqqqqpgq9t4l4rm2fr9h4fv05u2ld5eh99a7hlmua9rspf78gp';
