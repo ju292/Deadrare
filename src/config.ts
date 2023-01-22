@@ -9,9 +9,9 @@ export const walletConnectDeepLink = 'https://maiar.page.link/?apn=com.elrond.ma
 
 export const NFTContract = 'erd1qqqqqqqqqqqqqpgq32payvmle5ewfaqv9kgyct7medxlwazpvnnsl7afwf';
 export const NFTName = 'GenesisSpaceApe #4137';
-export const NFTRank = '2203';              //Rank :
-export const NFTScore ='431';                // Score:
-export const price = '4.85';    // IN EGLD
+export const NFTRank = '4644';              //Rank :
+export const NFTScore ='341';                // Score:
+export const price = '4.8';    // IN EGLD
 export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/bafybeicsa2ygmod3btvjtdvf6pofhp4vtjgfzgpmjhmgiryunrceccxmee/237.png';             // the link for the image (media.elrond.etc)
 
 // ATTRIBUTES
