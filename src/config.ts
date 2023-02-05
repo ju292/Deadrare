@@ -33,60 +33,60 @@ export const ValueAttribute4 = 'None';
 export const PercentageAttribute4 = '100%';
 
 export const TypeAttribute5 = 'Skin';
-export const ValueAttribute5 = 'Devil';
-export const PercentageAttribute5 = '1.38%';
+export const ValueAttribute5 = 'Tan';
+export const PercentageAttribute5 = '5.21%';
 
 export const TypeAttribute6 = 'Eyes';
-export const ValueAttribute6 = 'Holographic Red';
-export const PercentageAttribute6 = '2.30%';
+export const ValueAttribute6 = 'Space Googles Yellow';
+export const PercentageAttribute6 = '0.74%';
 
 export const TypeAttribute7 = 'Mouth';
-export const ValueAttribute7 = 'Phoneme Wah';
-export const PercentageAttribute7 = '1.76%';
+export const ValueAttribute7 = 'Dumbfounded';
+export const PercentageAttribute7 = '6.26%';
 
 
 export const TypeAttribute8 = 'Earrings';
-export const ValueAttribute8 = 'Gold Double Helix';
-export const PercentageAttribute8 = '1.76%';
+export const ValueAttribute8 = 'Silver Double Helix';
+export const PercentageAttribute8 = '4.80%';
 
 
 export const TypeAttribute9 = 'Legs';
-export const ValueAttribute9 = 'Titan Pants Neon';
-export const PercentageAttribute9 = '0.16%';
+export const ValueAttribute9 = 'Titan Pants Red';
+export const PercentageAttribute9 = '1.21%';
 
 
 
 export const TypeAttribute10 = 'LegAcessories';
-export const ValueAttribute10 = 'Pilots Bags Red';
-export const PercentageAttribute10 = '1.76%';
+export const ValueAttribute10 = 'Dual Grenades 1 Black';
+export const PercentageAttribute10 = '1.27%';
 
 
 export const TypeAttribute11 = 'Background';
-export const ValueAttribute11 = 'Neon';
-export const PercentageAttribute11 = '4.96%';
+export const ValueAttribute11 = 'Golden';
+export const PercentageAttribute11 = '17.49%';
 
 
 
 export const TypeAttribute12 = 'Headgear';
-export const ValueAttribute12 = 'Fluffy Hat Black';
-export const PercentageAttribute12 = '1.07%';
+export const ValueAttribute12 = 'Combat Helmet Brown';
+export const PercentageAttribute12 = '1.26%';
 
 
 
 export const TypeAttribute13 = 'Body';
-export const ValueAttribute13 = 'Rogue Armor Green';
-export const PercentageAttribute13 = '0.71%';
+export const ValueAttribute13 = 'Company Armor Yellow';
+export const PercentageAttribute13 = '0.39%';
 
 
 export const TypeAttribute14 = 'Perk 1';
-export const ValueAttribute14 = 'Black Widow';
-export const PercentageAttribute14 = '5.06%';
+export const ValueAttribute14 = 'Overachiever';
+export const PercentageAttribute14 = '4.80%';
 
 
 
 export const TypeAttribute15 = 'Perk 2';
-export const ValueAttribute15 = 'Scavenger';
-export const PercentageAttribute15 = '3.89%';
+export const ValueAttribute15 = 'Stonewall';
+export const PercentageAttribute15 = '4.45%';
 
 
 
