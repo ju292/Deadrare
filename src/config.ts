@@ -12,7 +12,7 @@ export const NFTName = 'GenesisSpaceApe #4644';
 export const NFTRank = '1192';              //Rank :
 export const NFTScore ='341';                // Score:
 export const price = '3.5';    // IN EGLD
-export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/bafybeicsa2ygmod3btvjtdvf6pofhp4vtjgfzgpmjhmgiryunrceccxmee/237.png';             // the link for the image (media.elrond.etc)
+export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/bafybeicsa2ygmod3btvjtdvf6pofhp4vtjgfzgpmjhmgiryunrceccxmee/4644.png';             // the link for the image (media.elrond.etc)
 
 // ATTRIBUTES
 
