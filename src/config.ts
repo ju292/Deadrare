@@ -101,7 +101,7 @@ export const PercentageAttribute15 = '4.45%';
 
 // DETAILS 
 
-export const OwnerAddress = 'erd16dcpqqrcmvk858xsusxmqmpgvf7lxph0e88ymzs3kkwnum3h4uss037ke4';
+export const OwnerAddress = 'erd1zv7lxflfp3a60cy3e97pkak4vna4ce4yeg8hxcl8nre9hwguuw2qsp6a4g';
 export const CollectionIdentifier = 'GSPACEAPE-08bc2b';
 export const TokenIdentifier = 'GSPACEAPE-08bc2b-02cd';
 export const CreatorAddress = 'erd1qqqqqqqqqqqqqpgq9t4l4rm2fr9h4fv05u2ld5eh99a7hlmua9rspf78gp';
