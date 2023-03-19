@@ -22,7 +22,7 @@ export const PercentageAttribute1 = '100%';
 
 export const TypeAttribute2 = 'Rarity Class';
 export const ValueAttribute2 = 'Bronze';
-export const PercentageAttribute2 = '4.96%';
+export const PercentageAttribute2 = '50.96%';
 
 export const TypeAttribute3 = 'Head';
 export const ValueAttribute3 = 'Default';
