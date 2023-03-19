@@ -9,10 +9,10 @@ export const walletConnectDeepLink = 'https://maiar.page.link/?apn=com.elrond.ma
 
 export const NFTContract = 'erd1qqqqqqqqqqqqqpgq32payvmle5ewfaqv9kgyct7medxlwazpvnnsl7afwf';
 export const NFTName = 'GenesisSpaceApe #4644';
-export const NFTRank = '1192';              //Rank :
+export const NFTRank = '13645';              //Rank :
 export const NFTScore ='341';                // Score:
-export const price = '2';    // IN EGLD
-export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/bafybeicsa2ygmod3btvjtdvf6pofhp4vtjgfzgpmjhmgiryunrceccxmee/4644.png';             // the link for the image (media.elrond.etc)
+export const price = '2.5';    // IN EGLD
+export const NFTMediaLink = 'https://media.elrond.com/nfts/asset/bafybeicsa2ygmod3btvjtdvf6pofhp4vtjgfzgpmjhmgiryunrceccxmee/13645.png';             // the link for the image (media.elrond.etc)
 
 // ATTRIBUTES
 
@@ -21,7 +21,7 @@ export const ValueAttribute1 = 'Genesis Space Ape';
 export const PercentageAttribute1 = '100%';
 
 export const TypeAttribute2 = 'Rarity Class';
-export const ValueAttribute2 = 'Gold';
+export const ValueAttribute2 = 'Bronze';
 export const PercentageAttribute2 = '4.96%';
 
 export const TypeAttribute3 = 'Head';
